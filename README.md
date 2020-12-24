@@ -5,9 +5,7 @@ How to run EnglishHITL ?
 
 `
 java -jar JHUHITLSystem-English.jar config.properties RM3 <path-to-indexDir> <ir-tasks.json> <output-file> <outputToIE-file> <logging-file> <watermark> <ci> <tk> <af> <li> <lf>
-
 `
-
 * ci - boolean to create annotation file (Default : true)
 * tk - HITLTopKDocs to limit the top-k annotation documents per query (Default : 10)
 * af - annotation filename
