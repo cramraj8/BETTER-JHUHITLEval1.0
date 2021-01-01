@@ -1,3 +1,7 @@
 output
 target
 *.javac
+.idea
+.DS_store
+.*.swp
+*.pyc
