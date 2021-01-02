@@ -5,3 +5,4 @@ target
 .DS_store
 .*.swp
 *.pyc
+.idea
