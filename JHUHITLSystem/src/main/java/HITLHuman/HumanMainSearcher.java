@@ -240,7 +240,7 @@ public class HumanMainSearcher {
 
     private HashMap<String, HashSet<String>> readFeedbackFile(String feedbackFile) {
         String line = "";
-        String splitBy = ",";
+        String splitBy = "\t";
         Set<String> queryDocsSet;
 
         String qID;
@@ -253,8 +253,7 @@ public class HumanMainSearcher {
             while ((line = br.readLine()) != null) {
                 String[] feedbackLine = line.split(splitBy);    // use comma as separator
                 if (feedbackLine[0].equals("QueryID")) continue;
-                // if (feedbackLine[1].equals("NO")) continue;
-                if ( !(feedbackLine[1].equals("YES")) ) continue;
+                if ( !(feedbackLine[1].toLowerCase().startsWith("y")) ) continue;
 
                 qID = feedbackLine[0];
                 dID = feedbackLine[2];
@@ -299,6 +298,7 @@ public class HumanMainSearcher {
         boolean createInterface = Boolean.parseBoolean(createInterfaceString);
         int HITLTopKDocs = Integer.parseInt(HITLTopKDocsString);
         boolean loadInterface = Boolean.parseBoolean(loadInterfaceString);
+        String split_by = "\t";
 
         // System.out.println(HITLTopKDocs);
 
@@ -307,13 +307,13 @@ public class HumanMainSearcher {
         if (createInterface) {
             csvWriter = new FileWriter(hitlFilename);
             csvWriter.append("QueryID");
-            csvWriter.append(",");
+            csvWriter.append(split_by);
             csvWriter.append("Feedback");
-            csvWriter.append(",");
+            csvWriter.append(split_by);
             csvWriter.append("DocID");
-            csvWriter.append(",");
+            csvWriter.append(split_by);
             csvWriter.append("DocText");
-            csvWriter.append("\n");
+            csvWriter.append('\n');
         }
 
         HashMap<String, HashSet<String>> feedbackHumanLabels = null;
@@ -396,9 +396,9 @@ public class HumanMainSearcher {
                         documentsList.add(documentInfo);
                     }
                     if (createInterface && (i < HITLTopKDocs)) {
-                        csvWriter.append(String.format(Locale.US, "%s", betterRequest.req_num)).append(",");
-                        csvWriter.append(" ").append(",");
-                        csvWriter.append(d.get(prop.getProperty("FIELD_ID"))).append(",");
+                        csvWriter.append(String.format(Locale.US, "%s", betterRequest.req_num)).append(split_by);
+                        csvWriter.append(" ").append(split_by);
+                        csvWriter.append(d.get(prop.getProperty("FIELD_ID"))).append(split_by);
                         // csvWriter.append(String.format(Locale.US, "%s", d.get(prop.getProperty("FIELD_BODY"))));
                         csvWriter.append( d.get(prop.getProperty("FIELD_BODY")).replaceAll("\\s+"," ") );
                         // csvWriter.append( d.get(prop.getProperty("FIELD_BODY")).replace(" ", "\\ ") );
