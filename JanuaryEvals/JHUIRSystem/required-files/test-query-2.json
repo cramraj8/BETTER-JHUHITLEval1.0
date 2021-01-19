@@ -1,0 +1,553 @@
+[
+  {
+    "task-num": "DR-T1",
+    "task-docs": [
+      "71f8ca01-bfb4-40f5-a118-4772c196ad97",
+      "5648f86d-cf04-44e0-bc89-a8affc803e59",
+      "df115370-fac8-463f-abf3-4593dc05f17b",
+      "586e2078-5b5b-4788-906e-27557b85e828",
+      "1e3515f4-5ece-40db-bdb6-26534d3ed878",
+      "167caadf-e725-4de8-87d7-613c525da2ee"
+    ],
+    "requests": [
+      {
+        "req-num": "DR-T1-r1",        
+        "req-docs": [
+          "71f8ca01-bfb4-40f5-a118-4772c196ad97",
+          "5648f86d-cf04-44e0-bc89-a8affc803e59"
+        ],
+        "req-extr": [
+          "January 6, 2016; claimed to be a hydrogen bomb, yield 10-16kt.",
+          "September 9, 2016; claimed first successful test of mountable warhead, yield 15-25kt.",
+          "February 11, 2017; North Korea test-fired a Pukkuksong-2 missile over the Sea of Japan.",
+          "September 3, 2017; nuclear test claimed to be a hydrogen bomb, a few hundred kt"
+        ]
+      },
+      {
+        "req-num": "DR-T1-r2",
+        "req-text": "Identify capabilities exhibited in missle tests, including range and fuel type.",
+        "req-docs": [
+          "1e3515f4-5ece-40db-bdb6-26534d3ed878"
+        ],
+        "req-extr": [
+          "citing an April test on a large liquid-fuelled engine that could propel an ICBM.",
+          "able to reach Guam",
+          "able to reach continental US"
+        ]
+      },
+      {
+        "req-num": "DR-T1-r3",
+        "req-docs": [
+          "71f8ca01-bfb4-40f5-a118-4772c196ad97",
+          "df115370-fac8-463f-abf3-4593dc05f17b"
+        ],
+        "req-extr": [
+          "Five days later, South Korea claims the North launched two more missiles on April 28 that failed."
+        ]
+      },
+      {
+        "req-num": "DR-T1-r4",
+        "req-docs": [
+          "5648f86d-cf04-44e0-bc89-a8affc803e59"
+        ],
+        "req-extr": [
+          "the seismic data recorded on 3 September 2017 gave the world enough information to conclude that North Korea had a nuclear device capable of \"city-busting\" explosive yields"
+        ]
+      },
+      {
+        "req-num": "DR-T1-r5",
+        "req-text": "Identify reactions of Japan, China, and South Korea to the tests.",
+        "req-docs": [
+          "586e2078-5b5b-4788-906e-27557b85e828"
+        ],
+        "req-extr": [
+          "On Saturday, China and Russia joined other members of the U.N. Security Council in approving punishing new economic sanctions"
+        ]
+      },
+      {
+        "req-num": "DR-T1-r6",
+        "req-text": "Identify sources of evidence for the tests.",
+        "req-docs": [
+          "5648f86d-cf04-44e0-bc89-a8affc803e59"
+        ],
+        "req-extr": [
+          "the seismic data recorded on 3 September 2017 gave the world enough information to conclude that North Korea had a nuclear device capable of \"city-busting\" explosive yields"
+        ]
+      },
+      {
+        "req-num": "DR-T1-r7",
+        "req-text": "What was the estimated yield for each nuclear test?",
+        "req-docs": [
+          "5648f86d-cf04-44e0-bc89-a8affc803e59",
+          "167caadf-e725-4de8-87d7-613c525da2ee"
+        ],
+        "req-extr": [
+          "January 6, 2016: 7-16.5kt",
+          "September 9, 2016: 15-25kt"
+        ]
+      }
+    ]
+  },
+  {
+    "task-num": "DR-T2",
+    "task-docs": [
+      "9242af0f-df74-459d-954f-89abad5808e9",
+      "6a27f465-647d-40ef-b7e0-f7162f3251c2",
+      "f5f3555a-d946-4872-9863-2d691e1f3a1e",
+      "3e744544-cf92-4515-8803-a4eeb704f1ba",
+      "1773c014-9607-4202-bbca-308d7586a2cc",
+      "30fe8d16-c081-4b9c-b8aa-3fafd6b78941"
+    ],
+    "requests": [
+      {
+        "req-num": "DR-T2-r1",
+        "req-docs": [
+          "6a27f465-647d-40ef-b7e0-f7162f3251c2",
+          "f5f3555a-d946-4872-9863-2d691e1f3a1e"
+        ],
+        "req-extr": [
+          "Ashdod and Beersheba, both protected by Iron Dome battalions.",
+          "The Israeli army says that one rocket landed near Netivot and another was intercepted by its Iron Dome Missile Defence System, near Beersheva."
+        ]
+      },
+      {
+        "req-num": "DR-T2-r2",
+        "req-text": "Identify specific numbers of Iron Dome interceptions of Katyusha and Qassam rockets fired from Gaza.",
+        "req-docs": [
+          "1773c014-9607-4202-bbca-308d7586a2cc",
+          "3e744544-cf92-4515-8803-a4eeb704f1ba"
+        ],
+        "req-extr": [
+          "managed to intercept two of the missiles",
+          "Three rockets were also shot down by Iron Dome over Tel Aviv"
+        ]
+      },
+      {
+        "req-num": "DR-T2-r3",
+        "req-text": "What percentage of rockets fired from Gaza are destroyed by the Iron Dome system?",
+        "req-docs": [
+          "6a27f465-647d-40ef-b7e0-f7162f3251c2"
+        ],
+        "req-extr": [
+          "Mr. Lloyd estimates that the system succeeded 30 percent to 40 percent of the time in detonating enemy warheads",
+          "concluded that the kill rate was zero"
+        ]
+      },
+      {
+        "req-num": "DR-T2-r4",
+        "req-text": "Identify key government officials and organizations in support of funding for the Iron Dome system.",
+        "req-docs": [
+          "6a27f465-647d-40ef-b7e0-f7162f3251c2"
+        ],
+        "req-extr": [
+          "Missile Defense Advocacy Alliance"
+        ]
+      },
+      {
+        "req-num": "DR-T2-r5",
+        "req-text": "Identify co-production efforts of Iron Dome by the U.S. and other countries.",
+        "req-docs": [
+          "9242af0f-df74-459d-954f-89abad5808e9"
+        ],
+        "req-extr": [
+          "developed by Rafael Advanced Defense Systems, a Haifa arms company, with partial funding from the United States",
+          "funding to Iron Dome , which has received hundreds of millions of dollars from the United States"
+        ]
+      },
+      {
+        "req-num": "DR-T2-r6",
+        "req-docs": [
+          "9242af0f-df74-459d-954f-89abad5808e9"
+        ],
+        "req-extr": [
+          "Israel’s other defense systems include the forthcoming David’s Sling, designed for medium-range rockets and missiles, and the Arrow, which is designed to intercept longer-range missiles fired from Iran."
+        ]
+      },
+      {
+        "req-num": "DR-T2-r7",
+        "req-text": "Describe the Israeli and Palestinian public reaction to the Gazan rocket attacks and the Iron Dome interceptions.",
+        "req-docs": [
+          "30fe8d16-c081-4b9c-b8aa-3fafd6b78941"
+        ],
+        "req-extr": [
+          "Israel says its Iron Dome Missile Defence system reduced casualties among its population"
+        ]
+      }
+    ]
+  },
+  {
+    "task-num": "DR-T3",
+    "task-title": "PRC and Nigeria Relations",
+    "task-stmt": "Provide information on the relationship between the People's Republic of China and Nigeria.",
+    "task-link": "https://en.wikipedia.org/wiki/China%E2%80%93Nigeria_relations",
+    "task-narr": "Characterize the economic, military, and diplomatic relationship between China and Nigeria.",
+    "task-in-scope": "Reports of the impact on Nigerian industries of trade imbalance are highly relevant.",
+    "task-not-in-scope": "General discussion about China's relationships with Africa is not relevant.",
+    "task-docs": [
+      "29d6e2a1-6ccc-47d8-b7aa-80b71b5ae827",
+      "722ea532-c536-4150-bd7f-b846e9a5002a",
+      "2a978268-2dcb-4668-b32b-1f2a2ec98491"
+    ],
+    "requests": [
+      {
+        "req-num": "DR-T3-r1",
+        "req-text": "What motivates China to invest in Nigeria?",
+        "req-docs": [
+          "29d6e2a1-6ccc-47d8-b7aa-80b71b5ae827"
+        ],
+        "req-extr": [
+          "China, the world's second-largest energy consumer, now imports about 28 percent of its oil and gas from sub-Saharan Africa,"
+        ]
+      },
+      {
+        "req-num": "DR-T3-r2",
+        "req-text": "What is China's involvement in Nigerian oil production?",
+        "req-docs": [
+          "2a978268-2dcb-4668-b32b-1f2a2ec98491"
+        ],
+        "req-extr": [
+          "Nigeria is exploring the option of borrowing from multilateral organizations such as the World Bank and AFDB, as well as the Export-Import Bank of China"
+        ]
+      },
+      {
+        "req-num": "DR-T3-r3",
+        "req-text": "Find estimates of the dollar value of total trade between China and Nigeria?",
+        "req-docs": [
+          "0145b4ce-e217-4a97-be63-f180af8eab61"
+        ],
+        "req-extr": [
+          "trade between the two was two hundred billion dollars in 2012"
+        ]
+      },
+      {
+        "req-num": "DR-T3-r4",
+        "req-text": "What transportation projects have been partially or fully funded by China?",
+        "req-docs": [
+          "722ea532-c536-4150-bd7f-b846e9a5002a"
+        ],
+        "req-extr": [
+          "additional talks are underway with other Chinese firms on other large projects, notably the Nigerian railway system."
+        ]
+      },
+      {
+        "req-num": "DR-T3-r5",
+        "req-text": "What energy projects have received Chinese funding?",
+        "req-docs": [
+          "722ea532-c536-4150-bd7f-b846e9a5002a"
+        ],
+        "req-extr": [
+          "The Buhari administration wants to grow the country’s power generation capacity, and the announcement of the hydropower station project appears to be good news, both for Abuja and Beijing. China is providing most of the funding through its Export-Import Bank"
+        ]
+      },
+      {
+        "req-num": "DR-T3-r6",
+        "req-text": "Give examples of Norinco, China's defense corporation, doing business in Nigeria.",
+        "req-docs": [
+          "29d6e2a1-6ccc-47d8-b7aa-80b71b5ae827"
+        ],
+        "req-extr": [
+          "China has also agreed to sell armaments to Nigeria -- $251 million worth of Chinese fighter jets, financed by China's Exim Bank -- and satellite technology provided by defense contractor Norinco."
+        ]
+      }
+    ]
+  },
+  {
+    "task-num": "DR-T4",
+    "task-title": "Flint Water Crisis",
+    "task-stmt": "Examine the causes and responses to the Flint water crisis that exposed residents to high levels of lead poisoning",
+    "task-link": "https://en.wikipedia.org/wiki/Flint_water_crisis",
+    "task-narr": "The Flint water crisis is a public health crisis that started in 2014, after the drinking water source for the city of Flint, Michigan was changed from treated Detroit Water and Sewerage Department water (sourced from Lake Huron and the Detroit River) to the Flint River.  As a result, the Flint residents were exposed to elevated levels of lead.",
+    "task-in-scope": "",
+    "task-not-in-scope": "",
+    "task-docs": [
+      "0775e00a-f4f0-42e1-a95b-39711518d415",
+      "5917c83a-28e7-4cfd-93ce-979447e6b233",
+      "77a50dff-ba25-4041-a05c-cf107fdaec99",
+      "bd217dac-4b12-4dc4-8137-79faf6f164b1"
+    ],
+    "requests": [
+      {
+        "req-num": "DR-T4-r1",
+        "req-text": "Identify the events in 2014 leading to increased lead in Flint's drinking water.",
+        "req-docs": [
+          "77a50dff-ba25-4041-a05c-cf107fdaec99"
+        ],
+        "req-extr": [
+          "the lead contamination that began in April 2014, when Flint began using the Flint River as its water supply to save money."
+        ]
+      },
+      {
+        "req-num": "DR-T4-r2",
+        "req-text": "Why did the change result in elevated levels of lead?",
+        "req-docs": [
+          "0775e00a-f4f0-42e1-a95b-39711518d415"
+        ],
+        "req-extr": [
+          "in the two years since officials switched the city water source from Lake Huron to the Flint River to save money. The highly polluted river corroded old pipes and leached lead into tap water, according to experts."
+        ]
+      },
+      {
+        "req-num": "DR-T4-r3",
+        "req-text": "Identify any studies of lead levels in children in Flint, and any official reactions to those studies.",
+        "req-docs": [
+          "77a50dff-ba25-4041-a05c-cf107fdaec99"
+        ],
+        "req-extr": [
+          "the three employees learned last July of a spike in the number of Flint children with elevated blood lead levels but concealed the results."
+        ]
+      },
+      {
+        "req-num": "DR-T4-r4",
+        "req-text": "Identify any government officials criminally charged as a result of the water crisis.",
+        "req-docs": [
+          "77a50dff-ba25-4041-a05c-cf107fdaec99"
+        ],
+        "req-extr": [
+          "three from Michigan’s Department of Health and Human Services and three from its Department of Environmental Quality",
+          "Liane Shekter Smith",
+          "Adam Rosenthal",
+          "Patrick Cook",
+          "Nancy Peeler",
+          "Robert Scott",
+          "Corinne Miller"
+        ]
+      },
+      {
+        "req-num": "DR-T4-r5",
+        "req-text": "Did the water supply switch in 2014 increase cases of Legionnaires Disease",
+        "req-docs": [
+          "bd217dac-4b12-4dc4-8137-79faf6f164b1"
+        ],
+        "req-extr": [
+          "release of emails that showed state and local officials had also delayed warning residents about an outbreak of Legionnaire’s disease that they suspected could be related to the water supply"
+        ]
+      },
+      {
+        "req-num": "DR-T4-r6",
+        "req-text": "Identify civil suits filed in response to the Flint water crisis, and the parties to each lawsuit.",
+        "req-docs": [
+          "0775e00a-f4f0-42e1-a95b-39711518d415"
+        ],
+        "req-extr": [
+          "An administrative complaint against the U.S. Environmental Protection Agency alleges negligence and demands more than $220 million in damages for its role in the Flint, Michigan, water crisis."
+        ]
+      },
+      {
+        "req-num": "DR-T4-r7",
+        "req-text": "Describe support given by the Federal government to Flint residents during the water crisis.",
+        "req-docs": [
+          "5917c83a-28e7-4cfd-93ce-979447e6b233"
+        ],
+        "req-extr": [
+          "Over the weekend, Obama declared a state of emergency in Flint, which allows the Federal Emergency Management Agency to provide the city with bottled water and filters worth up to $5 million."
+        ]
+      }
+    ]
+  },
+  {
+    "task-num": "DR-T5",
+    "task-title": "Vatican Financial Reforms",
+    "task-stmt": "To understand the extent of reforms instituted at the Vatican Bank to combat financial crimes, in particular money laundering.",
+    "task-link": "https://en.wikipedia.org/wiki/Institute_for_the_Works_of_Religion",
+    "task-narr": "The Catholic Church has been embroiled in a series of financial scandals, among them money laundering schemes, over the years.  Beginning in 2010, Pope Benedict ordered procedures to clean up financial activity by the Vatican Bank (Institute for Works of Religion or IOR).  Pope Francis made financial reform a top priority following his election in 2013.  This task is to understand operations at the Vatican Bank, the procedures implemented to counter money laundering, and the effectiveness of those procedures since 2010.",
+    "task-in-scope": "",
+    "task-not-in-scope": "Information on the operations of the Vatican's Treasury, or Administration of the Patrimony of the Apostolic See, is not relevant.",
+    "task-docs": [
+      "672e1268-229f-4053-a761-f97bed1b3e7e",
+      "4740db90-1c3e-44ab-9dee-30335fc7ca8b",
+      "478ba598-c7a4-4eb3-a77d-80ad34ec3f66"
+    ],
+    "requests": [
+      {
+        "req-num": "DR-T5-r1",
+        "req-text": "Identify officials within the Vatican Bank, to include any biographical information.",
+        "req-docs": [
+          "4740db90-1c3e-44ab-9dee-30335fc7ca8b"
+        ],
+        "req-extr": [
+          "Ernst von Freyberg",
+          "The Swiss-born Rene Brulhart, who heads up the regulator"
+        ]
+      },
+      {
+        "req-num": "DR-T5-r2",
+        "req-text": "Identify Bank of Italy's efforts to implement international regulations within the Vatican Bank.",
+        "req-docs": [
+          "478ba598-c7a4-4eb3-a77d-80ad34ec3f66"
+        ],
+        "req-extr": [
+          "It is not entirely clear how much legal authority Italian officials have over the Vatican Bank, since the Vatican is a sovereign state.",
+          "Italian banks effectively stopped dealing with the IOR in 2010 after the Bank of Italy ordered them to enforce strict anti-money laundering criteria to continue working with it.",
+          "From January 1 to February 12 last year the Bank of Italy froze all credit-card and ATM transactions inside the Vatican City over its failure to fully implement international anti-money-laundering standards."
+        ]
+      },
+      {
+        "req-num": "DR-T5-r3",
+        "req-text": "Describe steps taken by the Vatican Bank to implement anti-money laundering procedures.",
+        "req-docs": [
+          "672e1268-229f-4053-a761-f97bed1b3e7e"
+        ],
+        "req-extr": [
+          "The 64-page report details how the Vatican is looking to crack down on money laundering and the financing of terrorist activities"
+        ]
+      },
+      {
+        "req-num": "DR-T5-r4",
+        "req-text": "Identify cases of money laundering that have been reported, whether or not they have led to prosecution.",
+        "req-docs": [
+          "672e1268-229f-4053-a761-f97bed1b3e7e"
+        ],
+        "req-extr": [
+          "The document from the Financial Intelligence Authority shows six reports of \"suspicious activity\" in the past year, up from just one in 2011."
+        ]
+      },
+      {
+        "req-num": "DR-T5-r5",
+        "req-text": "Has the Vatican Bank been certified as one of the \"white list\" international banking institutions?",
+        "req-docs": [
+          "4740db90-1c3e-44ab-9dee-30335fc7ca8b"
+        ],
+        "req-extr": [
+          "is now working with the Council of Europe's Moneyval anti-money-laundering agency in a bid to make it onto the international 'white list' of banking."
+        ]
+      },
+      {
+        "req-num": "DR-T5-r6",
+        "req-text": "Describe establishment and purpose of the Vatican financial intelligence authority, the AIF.",
+        "req-docs": [
+          "dbace8af-51a3-4615-9624-9ba0320599b9"
+        ],
+        "req-extr": [
+          "The AIF passes on reports it deems worthy of further investigation to the prosecutor's office. But the report lamented the lack of prosecution in cases of suspected money laundering"
+        ]
+      }
+    ]
+  },
+  {
+    "task-num": "DR-T6",
+    "task-title": "Peace Efforts on the Korean peninsula",
+    "task-stmt": "To understand the issues surrounding efforts to obtain peace for North and South Korea.",
+    "task-link": "https://en.wikipedia.org/wiki/April_2018_inter-Korean_summit",
+    "task-narr": "In 2018 talks began between North and South Korea to discuss peace on the Korean peninsula with emphasis on denuclearization.  The talks included the United States role in the peace effort.",
+    "task-in-scope": "Documents that are relevant include those that identify dates, people, places, agreements made, as well as obstacles and threats that might compromise the peace efforts.",
+    "task-not-in-scope": "",
+    "task-docs": [
+      "6a56490d-769e-4616-82fc-671ca55b2b18",
+      "18255895-8c0c-4337-92a2-5ebba364ea5b",
+      "7b01cdb1-6261-464f-9d02-c379fdbe090e",
+      "4182992d-be69-454c-865c-4d500eea488c",
+      "ed86d965-7be5-4a94-a663-c88563845a5d"
+    ],
+    "requests": [
+      {
+        "req-num": "DR-T6-r1",
+        "req-text": "Identify summit meetings between North and South Korea taking place in 2018.",
+        "req-docs": [
+          "6a56490d-769e-4616-82fc-671ca55b2b18"
+        ],
+        "req-extr": [
+          "South Korean President Moon Jae-in met with Kim in a historic summit, agreeing on Friday",
+          "South Korea's presidential office had said that Kim told South Korean President Moon Jae-in during their summit last month"
+        ]
+      },
+      {
+        "req-num": "DR-T6-r2",
+        "req-text": "Describe the terms of the Panmunjom Declaration.",
+        "req-docs": [
+          "18255895-8c0c-4337-92a2-5ebba364ea5b"
+        ],
+        "req-extr": [
+          "In the recent, historic Panmunjom summit, Kim and South Korean President Moon Jae-in pledged to end the war on the Korean Peninsula. Rodong Sinmun, the official newspaper of North Korea’s Workers’ Party, carried the full text of the Panmunjom Declaration, which clearly states North Korea is intent on \"complete denuclearization.\""
+        ]
+      },
+      {
+        "req-num": "DR-T6-r3",
+        "req-text": "Describe China's role in Korean peninsula peace efforts.",
+        "req-docs": [
+          "7b01cdb1-6261-464f-9d02-c379fdbe090e"
+        ],
+        "req-extr": [
+          "China, North Korea's sole major ally, called for the summit to go ahead."
+        ]
+      },
+      {
+        "req-num": "DR-T6-r4",
+        "req-text": "Identify threats by North Korea to cancel negotiations and/or denuclearization.",
+        "req-docs": [
+          "4182992d-be69-454c-865c-4d500eea488c"
+        ],
+        "req-extr": [
+          "North Korean threats to cancel his planned summit with Kim Jong Un"
+        ]
+      },
+      {
+        "req-num": "DR-T6-r5",
+        "req-text": "Describe the events surrounding the 2018 Max Thunder military exercise.",
+        "req-docs": [
+          "ed86d965-7be5-4a94-a663-c88563845a5d"
+        ],
+        "req-extr": [
+          "he KCNA said that the \"2018 Max Thunder\" joint air combat exercise involves over 100 warplanes including \"B-52\" strategic bomber and \"F-22 Raptor\" stealth fighter, and is aimed at launching pre-emptive strikes against the DPRK as well as taking control of the airspace.\nThe exercise, which runs from May 11 till May 25, is a \"blatant challenge to the Panmunjom Declaration and an intentional military provocation running counter to the positive political development on the Korean Peninsula,\" the report said."
+        ]
+      }
+    ]
+  },
+  {
+    "task-num": "DR-T7",
+    "task-title": "Solar power in the US",
+    "task-stmt": "To understand the development of solar energy in the US.  How did it start, how did it grow to industrial scale and significant residential penetration. Solar energy required public and private investment in the production of the solar panels.",
+    "task-link": "https://en.wikipedia.org/wiki/Solar_power_in_the_United_States",
+    "task-narr": "The US has made significant investments in solar energy over the past decade.  Currently, residential photovoltaics supply the majority of solar power in the US, but recently large scale solar power generation facilities have been deployed in southwestern states.  The boom in solar energy is creating new jobs in manufacturing, installation, and power generation.  Recently, tariffs have brought some uncertainty to the marketplace.",
+    "task-docs": [
+      "893c4fe0-20b9-4006-9734-72bdcbc58bb6",
+      "a3c938c2-1fc2-40f2-8839-1f232aa3d340",
+      "300901b2-e7a7-4e91-9715-8f219e14fc54",
+      "29098d3c-00f9-4860-97e2-f04e9471efcf"
+    ],
+    "requests": [
+      {
+        "req-num": "DR-T7-r1",
+        "req-text": "Identify large scale solar electricity generation plants by location, year of construction and power output",
+        "req-docs": [
+          "893c4fe0-20b9-4006-9734-72bdcbc58bb6"
+        ],
+        "req-extr": [
+          "The farm , halfway between Los Angeles and San Francisco, is the world's second-largest photovoltaic plant under construction and is expected to generate 550-megawatts of electricity or about half the power of a nuclear reactor."
+        ]
+      },
+      {
+        "req-num": "DR-T7-r2",
+        "req-text": "What federal government programs have supported the growth of solar energy?",
+        "req-docs": [
+          "a3c938c2-1fc2-40f2-8839-1f232aa3d340"
+        ],
+        "req-extr": [
+          "In 2007 Case received a grant from the federal Department of Energy that designated New York as one of 25 \"Solar American Cities,\" big cities across the country that would serve as testing grounds for solar power.",
+          "Solar developers depend on two federal programs to make their projects financially viable. The most crucial is a loan guarantee program, expiring next September, that allows them to borrow money on favorable terms to finance up to 80 percent of construction costs.",
+          "The other is the option to take a 30 percent tax credit in the form of a cash payment once a project is built. Although the tax credit does not expire until the end of 2016, the option to take it as a cash payment disappears this year, making it far less valuable to a start-up company that is just beginning to generate revenue.",
+          "access to over $520 million in new capital from foundations, local governments and social impact investors."
+        ]
+      },
+      {
+        "req-num": "DR-T7-r3",
+        "req-text": "What companies are performing research in non-silicon-based solar energy technology?",
+        "req-docs": [
+          "300901b2-e7a7-4e91-9715-8f219e14fc54"
+        ],
+        "req-extr": [
+          "\"There’s really this renaissance of solar thermal technology, and people are working very hard on how to reduce costs,\" said Martin Heming, the executive in charge of solar technology at Schott, the German company that made the collector pipe for Nevada Solar One."
+        ]
+      },
+      {
+        "req-num": "DR-T7-r4",
+        "req-text": "Find reports of the cost of solar energy, for example as dollars per kilowatt-hour.",
+        "req-docs": [
+          "29098d3c-00f9-4860-97e2-f04e9471efcf"
+        ],
+        "req-extr": [
+          "Since October of 2008, the average price of solar modules has fallen from $4.20 per watt to around $1.20 to $1.50 per watt today"
+        ]
+      }
+    ]
+  }
+]

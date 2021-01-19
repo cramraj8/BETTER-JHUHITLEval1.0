@@ -1,0 +1,25 @@
+[
+  {
+    "task-num": "DR-T1",
+    "task-docs": [
+      "4008ab72866d8fd341f1b14e059e209c",
+      "3111ecf99d3515a4d5cf161ce9783898",
+      "f00f91ae2490ac17c8ed912d5a60fed8",
+    ],
+    "requests": [
+      {
+        "req-num": "DR-T1-r1",
+        "req-docs": [
+          "4008ab72866d8fd341f1b14e059e209c",
+          "3111ecf99d3515a4d5cf161ce9783898"
+        ],
+        "req-extr": [
+          "an important day in the socialist calendar.",
+          "On 24 February as many as 150,000 workers had taken to the streets.",
+          "Black Panther, a Good Film With Many Lessons for Nigeria",
+          "Boko Haram as we all know rejects authority and strives to take over territory"
+        ]
+      }
+    ]
+  }
+]
