@@ -1,0 +1,321 @@
+[
+  {
+    "task-num": "DR-T1",
+    "task-title": "North Korean ballistic missle and nuclear testing, 2016-2017",
+    "task-stmt": "Identify key events, milestones, and international reactions to North Korean testing of ballistic missiles and nuclear weapons.",
+    "task-link": "https://en.wikipedia.org/wiki/North_Korea_and_weapons_of_mass_destruction",
+    "task-narr": "In January 2016, an explosion was detected at the nuclear test facility in North Korea.  North Korea has also conducted a number of successful nuclear tests and in late 2017, North Korea announced that it had developed a new nuclear weapon that could reach the continental United States.  These tests have increased tensions between North Korea and the US, as well as with Japan and South Korea.",
+    "task-in-scope": "Documents that describe the dates of the tests, the success or failure of the tests, and the weapons technical capabilities are relevant. information on foreign reactions to the tests, to include UN sanctions, are relevant.",
+    "task-not-in-scope": "North Korean propaganda statements about the program or claims of testing without evidence are not relevant.",
+    "task-docs": [
+      "71f8ca01-bfb4-40f5-a118-4772c196ad97",
+      "5648f86d-cf04-44e0-bc89-a8affc803e59",
+      "df115370-fac8-463f-abf3-4593dc05f17b",
+      "586e2078-5b5b-4788-906e-27557b85e828",
+      "1e3515f4-5ece-40db-bdb6-26534d3ed878",
+      "121c0cf9-3cb4-4fce-bbfd-d66ab3301a82",
+      "2d6d1662-f03d-4349-a26c-f1f9814c5626",
+      "b209ab6e-9c48-498a-873c-d0d225b4ae32",
+      "167caadf-e725-4de8-87d7-613c525da2ee",
+      "687627ad-6029-4268-9538-f8c0b3e7fd92",
+      "ac0b3d92-2d3d-49f8-bd13-7ce0eb914c12",
+      "97213adc-7a46-4c70-8484-6477b53bef2d",
+      "45037c61-9169-41e5-ae1b-713c3a6876a5",
+      "6ee55ad6-c1a0-48d9-8762-e9e6abf4aa18"
+    ],
+    "requests": [
+      {
+        "req-num": "DR-T1-r1",
+        "req-text": "Identify dates and locations of the missile and nuclear tests.",
+        "req-docs": [
+          "71f8ca01-bfb4-40f5-a118-4772c196ad97",
+          "5648f86d-cf04-44e0-bc89-a8affc803e59",
+          "df115370-fac8-463f-abf3-4593dc05f17b",
+          "586e2078-5b5b-4788-906e-27557b85e828",
+          "121c0cf9-3cb4-4fce-bbfd-d66ab3301a82",
+          "2d6d1662-f03d-4349-a26c-f1f9814c5626"
+        ],
+        "req-extr": [
+          {
+            "id": 1,
+            "extr": "January 6, 2016; claimed to be a hydrogen bomb, yield 10-16kt."
+          },
+          {
+            "id": 2,
+            "extr": "September 9, 2016; claimed first successful test of mountable warhead, yield 15-25kt."
+          },
+          {
+            "id": 3,
+            "extr": "February 11, 2017; North Korea test-fired a Pukkuksong-2 missile over the Sea of Japan."
+          },
+          {
+            "id": 4,
+            "extr": "March 6, 2017; North Korea launches four ballistic missiles from the Tongchang-ri launch site."
+          },
+          {
+            "id": 5,
+            "extr": "April 4, 2017; North Korea test-fired a medium-range ballistic missile from its eastern port of Sinpo."
+          },
+          {
+            "id": 6,
+            "extr": "April 15, 2017; North Korea test-fired an unidentified land-based missile from the naval base in Sinpo."
+          },
+          {
+            "id": 7,
+            "extr": "April 28, 2017; North Korea test-fired an unidentified missile from Pukchang airfield."
+          },
+          {
+            "id": 8,
+            "extr": "May 13, 2017; North Korea test-fired a Hwasong-12 missile from a test site in the area of Kusong.[36] The missile, later revealed to be an intermediate range ballistic missile,[37] traveled 30 minutes,[38] reached an altitude of more than 2,111.5 km, and flew a horizontal distance of 789 km (489 miles), before falling into the Sea of Japan.[37] Such a missile would have a range of at least 4,000, reaching Guam, to 6,000 km.[36][35]"
+          },
+          {
+            "id": 9,
+            "extr": "May 21, 2017; North Korea test-fired another Pukkuksong-2 medium-range ballistic missile from Pukchang airfield."
+          },
+          {
+            "id": 10,
+            "extr": "May 29, 2017; North Korea fired a Short Range Ballistic Missile into the Sea of Japan"
+          },
+          {
+            "id": 11,
+            "extr": "July 4, 2017; North Korea tested its first intercontinental ballistic missile (ICBM) named Hwasong-14 on July 4.[45][46] It launched from the Panghyon Aircraft Factory 8 km southeast of Panghyon Airport.[47] It was aimed straight up at a lofted trajectory and reached more than 2,500 km into space.[48] It landed 37 minutes later,[49] more than 930 km from its launch site,[50] into Japan's exclusive economic zone.[51] Aiming long, the missile would have traveled 7,000\u20138,000 km or more, reaching Alaska, Hawaii, and maybe Seattle.[49][52][53][54][55] Its operational range would be farther, bringing a 500 kg payload to targets in most of the contiguous United States 9,700 km away.[56][57][58]"
+          },
+          {
+            "id": 12,
+            "extr": "July 28, 2017; The 14th missile test carried out by North Korea in 2017 was another ICBM launched at 23:41 North Korea time (15:41 GMT) from Chagang Province in the north of the country on July 28, 2017. Los Angeles, Denver, Chicago, Boston, and New York appear to be within range."
+          },
+          {
+            "id": 13,
+            "extr": "August 26, 2017; North Korea test-fired three short-range ballistic missiles from the Kangwon province"
+          },
+          {
+            "id": 14,
+            "extr": "August 29, 2017; North Korea launched a ballistic missile over Northern Japan."
+          },
+          {
+            "id": 15,
+            "extr": "September 3, 2017; nuclear test claimed to be a hydrogen bomb, a few hundred kt"
+          },
+          {
+            "id": 16,
+            "extr": "September 15, 2017; North Korea launched a ballistic missile on September 15 from Sunan airfield."
+          },
+          {
+            "id": 17,
+            "extr": "November 28, 2017; North Korea launched an ICBM from the vicinity of Pyongsong"
+          },
+          {
+            "id": 18,
+            "extr": "North Korea has conducted all six of its nuclear tests at Punggye-ri."
+          },
+          {
+            "id": "A1",
+            "extr": "23 April 2016 SLBM launch east coast"
+          },
+          {
+            "id": "A2",
+            "extr": "28 April 2016 two missile launches fail"
+          },
+          {
+            "id": "A3",
+            "extr": "8 June 2017 cruise missile launches, likely anti-ship, flew 125 miles"
+          },
+          {
+            "id": "A4",
+            "extr": "March and April 2017 missile (Hwasong-12) tests (4) fail"
+          },
+          {
+            "id": "A5",
+            "extr": "May 2017 Hwasong-12 test success; Guam in range"
+          },
+          {
+            "id": "A6",
+            "extr": "Nov 2017 test was with Hwasong-15 ICBM"
+          }
+        ]
+      },
+      {
+        "req-num": "DR-T1-r2",
+        "req-text": "Identify capabilities exhibited in missle tests, including range and fuel type.",
+        "req-docs": [
+          "1e3515f4-5ece-40db-bdb6-26534d3ed878"
+        ],
+        "req-extr": [
+          {
+            "id": 1,
+            "extr": "citing an April test on a large liquid-fuelled engine that could propel an ICBM."
+          },
+          {
+            "id": 2,
+            "extr": "able to reach Guam"
+          },
+          {
+            "id": 3,
+            "extr": "able to reach continental US"
+          },
+          {
+            "id": "A1",
+            "extr": "17 Mar 2017 med-range ballistic missile, prob Rodong, flew 800km (500 miles)"
+          },
+          {
+            "id": "A2",
+            "extr": "16 Mar 2016 SCUD-tupe short range flew 500km (310miles)"
+          },
+          {
+            "id": "A3",
+            "extr": "Jul 2017 ICBM tests carried payload lighter than nuc warhead wud be"
+          },
+          {
+            "id": "A4",
+            "extr": "28/29 Nov 2017 missile flew at of altitude 4475km (2780m, range of 950km (590m) in 53 mins; highest and longest of any launch; poss fm mobile launcher"
+          },
+          {
+            "id": "A5",
+            "extr": "2016 Musudan 2500-4000km (1553-2485m)"
+          },
+          {
+            "id": "A6",
+            "extr": "April 2017 test of liquid-fueled engine"
+          },
+          {
+            "id": "A7",
+            "extr": "most NK missiles use liquid fuel"
+          },
+          {
+            "id": "A8",
+            "extr": "((May 2017)) Hwasong-12 alt 2111.5km (1312m) flew 787km (489m)((landed near Ru; cud have reached Guam))"
+          },
+          {
+            "id": "A9",
+            "extr": "Aug 2017 SCUD 250km (155m)"
+          },
+          {
+            "id": "A10",
+            "extr": "Aug 2016 SLBM 500km (300m)"
+          },
+          {
+            "id": "A11",
+            "extr": "29 Aug 2017 missile overflew Ja alt 550km"
+          },
+          {
+            "id": "A12",
+            "extr": "15 Sep 2017 missile overflew N.Ja higher and farther than 29/8 launch (3700km(2300m) at 770km alt"
+          },
+          {
+            "id": "A13",
+            "extr": "Feb 2017 Musudan med-range missile 500km"
+          },
+          {
+            "id": "A14",
+            "extr": "Pukguksong-2 interm-range missile uses solid-fuel"
+          },
+          {
+            "id": "A15",
+            "extr": "Pukguksong-1 is first SLBM"
+          },
+          {
+            "id": "A16",
+            "extr": "SCUD-ER is liquid fueled"
+          },
+          {
+            "id": "A17",
+            "extr": "P"
+          },
+          {
+            "id": "A18",
+            "extr": "4 Jul 2017 1st ICBM test at alt 2802km 39 mins"
+          }
+        ]
+      },
+      {
+        "req-num": "DR-T1-r4",
+        "req-text": "What were the successes and failures of the nuclear tests?",
+        "req-docs": [
+          "5648f86d-cf04-44e0-bc89-a8affc803e59",
+          "167caadf-e725-4de8-87d7-613c525da2ee"
+        ],
+        "req-extr": [
+          {
+            "id": 1,
+            "extr": "the seismic data recorded on 3 September 2017 gave the world enough information to conclude that North Korea had a nuclear device capable of \"city-busting\" explosive yields"
+          },
+          {
+            "id": 2,
+            "extr": "On September 3, North Korea conducts its sixth and largest nuclear test."
+          },
+          {
+            "id": "A1",
+            "extr": "6 Jan 2016 4th test"
+          },
+          {
+            "id": "A2",
+            "extr": "9 Sep 2016 5th test"
+          },
+          {
+            "id": "A3",
+            "extr": "3 Sep 2017 6th test"
+          },
+          {
+            "id": "A4",
+            "extr": "possibility of a cave-in or accident after 6th test"
+          },
+          {
+            "id": "A5",
+            "extr": "intelligence reports NK has miniaturized nuclear warhead"
+          }
+        ]
+      },
+      {
+        "req-num": "DR-T1-r5",
+        "req-text": "Identify reactions of Japan, China, and South Korea to the tests.",
+        "req-docs": [
+          "586e2078-5b5b-4788-906e-27557b85e828",
+          "1e3515f4-5ece-40db-bdb6-26534d3ed878",
+          "121c0cf9-3cb4-4fce-bbfd-d66ab3301a82"
+        ],
+        "req-extr": [
+          {
+            "id": 1,
+            "extr": "On Saturday, China and Russia joined other members of the U.N. Security Council in approving punishing new economic sanctions"
+          },
+          {
+            "id": "A1",
+            "extr": "S. Korea agrees to deploy THAAD"
+          },
+          {
+            "id": "A2",
+            "extr": "S. Korea responds with military exercises/drills((not regularly sked US-ROK exercises))"
+          },
+          {
+            "id": "A3",
+            "extr": "S. Korea to remove payload limits on missiles"
+          },
+          {
+            "id": "A4",
+            "extr": "Japan to consider easing legal constraints on offensive action"
+          },
+          {
+            "id": "A5",
+            "extr": "Japan considering upgrades to missile defense"
+          },
+          {
+            "id": "A6",
+            "extr": "Japan alert system activated"
+          },
+          {
+            "id": "A7",
+            "extr": "PRC curtails coal imports from N. Korea"
+          },
+          {
+            "id": "A8",
+            "extr": "PRC orders banks not to open new N. Korean accounts"
+          },
+          {
+            "id": "A9",
+            "extr": "S.Korea and PRC want N.Korea to freeze nuc and msl tests in exchange for US agreement to limit or suspend military exercises with S. Korea"
+          }
+        ]
+      }
+  ]
+}
+]  
