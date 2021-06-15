@@ -1,0 +1,42 @@
+
+Main script : /src/main/java/HITLHuman/HumanMainSearcher.java
+
+What are the other scripts do ?
+- /HITLHuman/HumanMainSearcher.java: starts the algorithm, and writes the output retrieval results
+- /HITLHuman/HumanRM3Searcher.java : RM3 algorithm wrapped up inside
+- /HITLHuman/TermWrapperHuman.java : Each Term (java class) declaration to be used inside HumanRM3Searcher.java
+
+- /src/main/java/BETTERUtils : scripts to read the query files
+
+How RM3 works ?
+
+1. search() : main function that reranks BM25 results with RM3 rescoring
+
+2. mergeTaskReqScoreDocs() : function that merges Task-relevance documents & Request-relevance documents
+
+3. mergeHumanPseudoScoreDocs() : function that merges (Task-relevance documents & Request-relevance documents) with Human-relevance documents
+
+4. expandQuery() : does the query expansion with top-k expanded terms
+
+5. scoreWords() : provide weights to each terms (words)
+
+6. generateScore() : provide (assign) weights to each top-1000 documents
+
+7. reRank() : using the reweighted term scores, assign new weights to the documents, and does reranking
+
+8. normalizeInitialTopSearchScores() : unit-normalize the BM25 scores of top-1000 documents so that the up-weighted relevane document scores can be mixed.
+
+
+What is happening inside search() function  ?
+
+1. retrieve top-1000 documents
+
+2. merge Task & Request relevane documents list
+
+3. merge pseudo & human relevance document list
+
+4. normalize the top-1000 documents BM25 scores
+
+5. calls rerank() to assign new scores to the top-1000 documents
+
+6. sort the top-1000 documents according to the new weights

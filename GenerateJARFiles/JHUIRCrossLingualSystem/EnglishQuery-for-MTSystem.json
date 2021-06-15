@@ -1,0 +1,32 @@
+[
+  {
+    "taskRequests":[
+      {
+        "reqQueryText":"تشكيل لجن+ة من ست+ة أشخاص تضم ممثل+ين",
+        "reqQueryID":"DR-T5-r1"
+      },
+      {
+        "reqQueryText":"ال+شوح+ة ان ال+غرف+ة",
+        "reqQueryID":"DR-T5-r2"
+      },
+      {
+        "reqQueryText":"",
+        "reqQueryID":"DR-T5-r3"
+      }
+    ],
+    "taskID":"DR-T5"
+  },
+  {
+    "taskRequests":[
+      {
+        "reqQueryText":"",
+        "reqQueryID":"DR-T1-r1"
+      },
+      {
+        "reqQueryText":"بني هاني ان ال+بلدي+ة",
+        "reqQueryID":"DR-T1-r1"
+      }
+    ],
+    "taskID":"DR-T1"
+  }
+]

@@ -1,0 +1,2239 @@
+[
+  {
+    "task-num": "DR-T1",
+    "task-title": "North Korean ballistic missle and nuclear testing, 2016-2017",
+    "task-stmt": "Identify key events, milestones, and international reactions to North Korean testing of ballistic missiles and nuclear weapons.",
+    "task-link": "https://en.wikipedia.org/wiki/North_Korea_and_weapons_of_mass_destruction",
+    "task-narr": "In January 2016, an explosion was detected at the nuclear test facility in North Korea.  North Korea has also conducted a number of successful nuclear tests and in late 2017, North Korea announced that it had developed a new nuclear weapon that could reach the continental United States.  These tests have increased tensions between North Korea and the US, as well as with Japan and South Korea.",
+    "task-in-scope": "Documents that describe the dates of the tests, the success or failure of the tests, and the weapons technical capabilities are relevant. information on foreign reactions to the tests, to include UN sanctions, are relevant.",
+    "task-not-in-scope": "North Korean propaganda statements about the program or claims of testing without evidence are not relevant.",
+    "task-docs": [
+      "71f8ca01-bfb4-40f5-a118-4772c196ad97",
+      "5648f86d-cf04-44e0-bc89-a8affc803e59",
+      "df115370-fac8-463f-abf3-4593dc05f17b",
+      "586e2078-5b5b-4788-906e-27557b85e828",
+      "1e3515f4-5ece-40db-bdb6-26534d3ed878",
+      "121c0cf9-3cb4-4fce-bbfd-d66ab3301a82",
+      "2d6d1662-f03d-4349-a26c-f1f9814c5626",
+      "b209ab6e-9c48-498a-873c-d0d225b4ae32",
+      "167caadf-e725-4de8-87d7-613c525da2ee",
+      "687627ad-6029-4268-9538-f8c0b3e7fd92",
+      "ac0b3d92-2d3d-49f8-bd13-7ce0eb914c12",
+      "97213adc-7a46-4c70-8484-6477b53bef2d",
+      "45037c61-9169-41e5-ae1b-713c3a6876a5",
+      "6ee55ad6-c1a0-48d9-8762-e9e6abf4aa18"
+    ],
+    "requests": [
+      {
+        "req-num": "DR-T1-r1",
+        "req-text": "Identify dates and locations of the missile and nuclear tests.",
+        "req-docs": [
+          "71f8ca01-bfb4-40f5-a118-4772c196ad97",
+          "5648f86d-cf04-44e0-bc89-a8affc803e59",
+          "df115370-fac8-463f-abf3-4593dc05f17b",
+          "586e2078-5b5b-4788-906e-27557b85e828",
+          "121c0cf9-3cb4-4fce-bbfd-d66ab3301a82",
+          "2d6d1662-f03d-4349-a26c-f1f9814c5626"
+        ],
+        "req-extr": [
+          {
+            "id": 1,
+            "extr": "January 6, 2016; claimed to be a hydrogen bomb, yield 10-16kt."
+          },
+          {
+            "id": 2,
+            "extr": "September 9, 2016; claimed first successful test of mountable warhead, yield 15-25kt."
+          },
+          {
+            "id": 3,
+            "extr": "February 11, 2017; North Korea test-fired a Pukkuksong-2 missile over the Sea of Japan."
+          },
+          {
+            "id": 4,
+            "extr": "March 6, 2017; North Korea launches four ballistic missiles from the Tongchang-ri launch site."
+          },
+          {
+            "id": 5,
+            "extr": "April 4, 2017; North Korea test-fired a medium-range ballistic missile from its eastern port of Sinpo."
+          },
+          {
+            "id": 6,
+            "extr": "April 15, 2017; North Korea test-fired an unidentified land-based missile from the naval base in Sinpo."
+          },
+          {
+            "id": 7,
+            "extr": "April 28, 2017; North Korea test-fired an unidentified missile from Pukchang airfield."
+          },
+          {
+            "id": 8,
+            "extr": "May 13, 2017; North Korea test-fired a Hwasong-12 missile from a test site in the area of Kusong.[36] The missile, later revealed to be an intermediate range ballistic missile,[37] traveled 30 minutes,[38] reached an altitude of more than 2,111.5 km, and flew a horizontal distance of 789 km (489 miles), before falling into the Sea of Japan.[37] Such a missile would have a range of at least 4,000, reaching Guam, to 6,000 km.[36][35]"
+          },
+          {
+            "id": 9,
+            "extr": "May 21, 2017; North Korea test-fired another Pukkuksong-2 medium-range ballistic missile from Pukchang airfield."
+          },
+          {
+            "id": 10,
+            "extr": "May 29, 2017; North Korea fired a Short Range Ballistic Missile into the Sea of Japan"
+          },
+          {
+            "id": 11,
+            "extr": "July 4, 2017; North Korea tested its first intercontinental ballistic missile (ICBM) named Hwasong-14 on July 4.[45][46] It launched from the Panghyon Aircraft Factory 8 km southeast of Panghyon Airport.[47] It was aimed straight up at a lofted trajectory and reached more than 2,500 km into space.[48] It landed 37 minutes later,[49] more than 930 km from its launch site,[50] into Japan's exclusive economic zone.[51] Aiming long, the missile would have traveled 7,000\u20138,000 km or more, reaching Alaska, Hawaii, and maybe Seattle.[49][52][53][54][55] Its operational range would be farther, bringing a 500 kg payload to targets in most of the contiguous United States 9,700 km away.[56][57][58]"
+          },
+          {
+            "id": 12,
+            "extr": "July 28, 2017; The 14th missile test carried out by North Korea in 2017 was another ICBM launched at 23:41 North Korea time (15:41 GMT) from Chagang Province in the north of the country on July 28, 2017. Los Angeles, Denver, Chicago, Boston, and New York appear to be within range."
+          },
+          {
+            "id": 13,
+            "extr": "August 26, 2017; North Korea test-fired three short-range ballistic missiles from the Kangwon province"
+          },
+          {
+            "id": 14,
+            "extr": "August 29, 2017; North Korea launched a ballistic missile over Northern Japan."
+          },
+          {
+            "id": 15,
+            "extr": "September 3, 2017; nuclear test claimed to be a hydrogen bomb, a few hundred kt"
+          },
+          {
+            "id": 16,
+            "extr": "September 15, 2017; North Korea launched a ballistic missile on September 15 from Sunan airfield."
+          },
+          {
+            "id": 17,
+            "extr": "November 28, 2017; North Korea launched an ICBM from the vicinity of Pyongsong"
+          },
+          {
+            "id": 18,
+            "extr": "North Korea has conducted all six of its nuclear tests at Punggye-ri."
+          },
+          {
+            "id": "A1",
+            "extr": "23 April 2016 SLBM launch east coast"
+          },
+          {
+            "id": "A2",
+            "extr": "28 April 2016 two missile launches fail"
+          },
+          {
+            "id": "A3",
+            "extr": "8 June 2017 cruise missile launches, likely anti-ship, flew 125 miles"
+          },
+          {
+            "id": "A4",
+            "extr": "March and April 2017 missile (Hwasong-12) tests (4) fail"
+          },
+          {
+            "id": "A5",
+            "extr": "May 2017 Hwasong-12 test success; Guam in range"
+          },
+          {
+            "id": "A6",
+            "extr": "Nov 2017 test was with Hwasong-15 ICBM"
+          }
+        ]
+      },
+      {
+        "req-num": "DR-T1-r2",
+        "req-text": "Identify capabilities exhibited in missle tests, including range and fuel type.",
+        "req-docs": [
+          "1e3515f4-5ece-40db-bdb6-26534d3ed878"
+        ],
+        "req-extr": [
+          {
+            "id": 1,
+            "extr": "citing an April test on a large liquid-fuelled engine that could propel an ICBM."
+          },
+          {
+            "id": 2,
+            "extr": "able to reach Guam"
+          },
+          {
+            "id": 3,
+            "extr": "able to reach continental US"
+          },
+          {
+            "id": "A1",
+            "extr": "17 Mar 2017 med-range ballistic missile, prob Rodong, flew 800km (500 miles)"
+          },
+          {
+            "id": "A2",
+            "extr": "16 Mar 2016 SCUD-tupe short range flew 500km (310miles)"
+          },
+          {
+            "id": "A3",
+            "extr": "Jul 2017 ICBM tests carried payload lighter than nuc warhead wud be"
+          },
+          {
+            "id": "A4",
+            "extr": "28/29 Nov 2017 missile flew at of altitude 4475km (2780m, range of 950km (590m) in 53 mins; highest and longest of any launch; poss fm mobile launcher"
+          },
+          {
+            "id": "A5",
+            "extr": "2016 Musudan 2500-4000km (1553-2485m)"
+          },
+          {
+            "id": "A6",
+            "extr": "April 2017 test of liquid-fueled engine"
+          },
+          {
+            "id": "A7",
+            "extr": "most NK missiles use liquid fuel"
+          },
+          {
+            "id": "A8",
+            "extr": "((May 2017)) Hwasong-12 alt 2111.5km (1312m) flew 787km (489m)((landed near Ru; cud have reached Guam))"
+          },
+          {
+            "id": "A9",
+            "extr": "Aug 2017 SCUD 250km (155m)"
+          },
+          {
+            "id": "A10",
+            "extr": "Aug 2016 SLBM 500km (300m)"
+          },
+          {
+            "id": "A11",
+            "extr": "29 Aug 2017 missile overflew Ja alt 550km"
+          },
+          {
+            "id": "A12",
+            "extr": "15 Sep 2017 missile overflew N.Ja higher and farther than 29/8 launch (3700km(2300m) at 770km alt"
+          },
+          {
+            "id": "A13",
+            "extr": "Feb 2017 Musudan med-range missile 500km"
+          },
+          {
+            "id": "A14",
+            "extr": "Pukguksong-2 interm-range missile uses solid-fuel"
+          },
+          {
+            "id": "A15",
+            "extr": "Pukguksong-1 is first SLBM"
+          },
+          {
+            "id": "A16",
+            "extr": "SCUD-ER is liquid fueled"
+          },
+          {
+            "id": "A17",
+            "extr": "P"
+          },
+          {
+            "id": "A18",
+            "extr": "4 Jul 2017 1st ICBM test at alt 2802km 39 mins"
+          }
+        ]
+      },
+      {
+        "req-num": "DR-T1-r4",
+        "req-text": "What were the successes and failures of the nuclear tests?",
+        "req-docs": [
+          "5648f86d-cf04-44e0-bc89-a8affc803e59",
+          "167caadf-e725-4de8-87d7-613c525da2ee"
+        ],
+        "req-extr": [
+          {
+            "id": 1,
+            "extr": "the seismic data recorded on 3 September 2017 gave the world enough information to conclude that North Korea had a nuclear device capable of \"city-busting\" explosive yields"
+          },
+          {
+            "id": 2,
+            "extr": "On September 3, North Korea conducts its sixth and largest nuclear test."
+          },
+          {
+            "id": "A1",
+            "extr": "6 Jan 2016 4th test"
+          },
+          {
+            "id": "A2",
+            "extr": "9 Sep 2016 5th test"
+          },
+          {
+            "id": "A3",
+            "extr": "3 Sep 2017 6th test"
+          },
+          {
+            "id": "A4",
+            "extr": "possibility of a cave-in or accident after 6th test"
+          },
+          {
+            "id": "A5",
+            "extr": "intelligence reports NK has miniaturized nuclear warhead"
+          }
+        ]
+      },
+      {
+        "req-num": "DR-T1-r5",
+        "req-text": "Identify reactions of Japan, China, and South Korea to the tests.",
+        "req-docs": [
+          "586e2078-5b5b-4788-906e-27557b85e828",
+          "1e3515f4-5ece-40db-bdb6-26534d3ed878",
+          "121c0cf9-3cb4-4fce-bbfd-d66ab3301a82"
+        ],
+        "req-extr": [
+          {
+            "id": 1,
+            "extr": "On Saturday, China and Russia joined other members of the U.N. Security Council in approving punishing new economic sanctions"
+          },
+          {
+            "id": "A1",
+            "extr": "S. Korea agrees to deploy THAAD"
+          },
+          {
+            "id": "A2",
+            "extr": "S. Korea responds with military exercises/drills((not regularly sked US-ROK exercises))"
+          },
+          {
+            "id": "A3",
+            "extr": "S. Korea to remove payload limits on missiles"
+          },
+          {
+            "id": "A4",
+            "extr": "Japan to consider easing legal constraints on offensive action"
+          },
+          {
+            "id": "A5",
+            "extr": "Japan considering upgrades to missile defense"
+          },
+          {
+            "id": "A6",
+            "extr": "Japan alert system activated"
+          },
+          {
+            "id": "A7",
+            "extr": "PRC curtails coal imports from N. Korea"
+          },
+          {
+            "id": "A8",
+            "extr": "PRC orders banks not to open new N. Korean accounts"
+          },
+          {
+            "id": "A9",
+            "extr": "S.Korea and PRC want N.Korea to freeze nuc and msl tests in exchange for US agreement to limit or suspend military exercises with S. Korea"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "task-num": "DR-T2",
+    "task-title": "Iron Dome",
+    "task-stmt": "To understand the effectiveness of the Israeli Iron Dome air defense system against rockets fired from Gaza into Israel.",
+    "task-link": "https://en.wikipedia.org/wiki/Iron_Dome",
+    "task-narr": "In response to increasing rocket attacks from the Gaza Strip, in 2005 the Israeli government contracted with Rafael Advanced Defense Systems and Israeli Aerospace Industries to develop an air defense system, Iron Dome, which uses small radar guided missiles to intercept and destroy incoming rockets, artillery shells and precision-guided munitions.  Iron Dome, which was partially funded by the U.S., was first deployed in in Beersheba on March 27, 2011.  To date, Israel has a total of 10 batteries deployed with plans to expand to 15 batteries on land and eventually at sea to protect off-shore gas platforms.",
+    "task-in-scope": "This task is seeking to specifically gather information on Iron Dome's deployment and effectiveness.",
+    "task-not-in-scope": "Information on the broader conflicts between Israel and the Palestinians is not relevant.",
+    "task-docs": [
+      "9242af0f-df74-459d-954f-89abad5808e9",
+      "e88f06cc-7010-4101-b2fd-62437ff2e493",
+      "7419026b-85de-467d-8bb4-afe7efd61708",
+      "db734582-7739-4ca2-ae79-a244578cb0fc",
+      "6a27f465-647d-40ef-b7e0-f7162f3251c2",
+      "f5f3555a-d946-4872-9863-2d691e1f3a1e",
+      "01445610-1206-455e-afec-22f18f52ccbb",
+      "3e744544-cf92-4515-8803-a4eeb704f1ba",
+      "b499df9e-63fc-4fec-9a31-9a4734c47bab",
+      "1773c014-9607-4202-bbca-308d7586a2cc",
+      "db8f3fd6-0a42-4947-96d3-3075a82af2b7",
+      "21b99ebe-ba28-4fb1-8a02-1377d0f9d3ba",
+      "30fe8d16-c081-4b9c-b8aa-3fafd6b78941",
+      "7448ed91-7236-469f-bfbb-6672b17501fc"
+    ],
+    "requests": [
+      {
+        "req-num": "DR-T2-r1",
+        "req-text": "Identify towns/cities in Israel where Iron Dome has been deployed since 2011.",
+        "req-docs": [
+          "6a27f465-647d-40ef-b7e0-f7162f3251c2",
+          "f5f3555a-d946-4872-9863-2d691e1f3a1e",
+          "9242af0f-df74-459d-954f-89abad5808e9"
+        ],
+        "req-extr": [
+          {
+            "id": 1,
+            "extr": "Ashdod and Beersheba, both protected by Iron Dome battalions."
+          },
+          {
+            "id": 2,
+            "extr": "The Israeli army says that one rocket landed near Netivot and another was intercepted by its Iron Dome Missile Defence System, near Beersheva."
+          },
+          {
+            "id": 3,
+            "extr": "The first Iron Dome battery was installed in March 2011 near the southern city of Beersheva,"
+          },
+          {
+            "id": "A1",
+            "extr": "Iron Dome system estimated to succeed 30-40% of the time."
+          },
+          {
+            "id": "A2",
+            "extr": "First Iron Dome battery installed in March 2011 near Beersheva."
+          },
+          {
+            "id": "A3",
+            "extr": "One rocket intercepted by Iron Dome system near Beersheva."
+          },
+          {
+            "id": "A4",
+            "extr": "Israeli officials report Iron Dome system shot down 4 out of 5 rockets."
+          },
+          {
+            "id": "A5",
+            "extr": "Iron Dome system knocked down 400 rockets with success rate of 85%."
+          },
+          {
+            "id": "A6",
+            "extr": "Iron Dome destroyed two missiles fired from Gaza towards Ashkelon."
+          },
+          {
+            "id": "A7",
+            "extr": "Iron Dome shot down a Grad rocket headed for the city of Ashkelon."
+          },
+          {
+            "id": "A8",
+            "extr": "Iron Dome credited with 80% success against incoming rockets."
+          },
+          {
+            "id": "A9",
+            "extr": "Iron Dome system intercepted 21 of 82 rockets fired at three Israeli cities."
+          },
+          {
+            "id": "A10",
+            "extr": "Iron Dome intercepted 42 out of 135 rockets fired from Gaza."
+          },
+          {
+            "id": "A11",
+            "extr": "First use of Iron Dome which shot down rocket headed for Ashhkelon."
+          },
+          {
+            "id": "A12",
+            "extr": "Israel claimed a 90% success rate for the  Iron Dome defense system."
+          },
+          {
+            "id": "A13",
+            "extr": "Iron Dome intercepted 4 rockets fired at Tel Aviv."
+          },
+          {
+            "id": "A14",
+            "extr": "Israel re[ported  that more than 600 rockets/projectiles intercepted by Iron Dome."
+          },
+          {
+            "id": "A15",
+            "extr": "IDF reported Iron Dome intercepted rocket fired toward Ashkelon."
+          },
+          {
+            "id": "A16",
+            "extr": "Israeli military reported Iron Dome intercepted between 75 to 90% of rockets."
+          },
+          {
+            "id": "A17",
+            "extr": "President Obama inspected a battery of Iron Dome Air Defense system in Israel."
+          },
+          {
+            "id": "A18",
+            "extr": "Iron Dome launcher fired in city of Ashdod July 9, 2014."
+          },
+          {
+            "id": "A19",
+            "extr": "Iron Dome intercepted 578 of 2,648 rockets fired into Israel."
+          },
+          {
+            "id": "A20",
+            "extr": "Officials stated that Iron Dome has headed off about 90% of incoming rockets."
+          },
+          {
+            "id": "A21",
+            "extr": "20 March 2013 President Obama shown Iron Dome Defense at Ben Gurion airport."
+          },
+          {
+            "id": "A22",
+            "extr": "Israeli military counted 40 out of 135 rockets \"blocked\" by Iron Dome system."
+          },
+          {
+            "id": "A23",
+            "extr": "Iron Dome battery positioned in the Eilat area."
+          }
+        ]
+      },
+      {
+        "req-num": "DR-T2-r2",
+        "req-text": "Identify specific numbers of Iron Dome interceptions of Katyusha and Qassam rockets fired from Gaza.",
+        "req-docs": [
+          "1773c014-9607-4202-bbca-308d7586a2cc",
+          "3e744544-cf92-4515-8803-a4eeb704f1ba",
+          "db8f3fd6-0a42-4947-96d3-3075a82af2b7",
+          "f5f3555a-d946-4872-9863-2d691e1f3a1e",
+          "30fe8d16-c081-4b9c-b8aa-3fafd6b78941",
+          "9242af0f-df74-459d-954f-89abad5808e9"
+        ],
+        "req-extr": [
+          {
+            "id": 1,
+            "extr": "managed to intercept two of the missiles"
+          },
+          {
+            "id": 2,
+            "extr": "Three rockets were also shot down by Iron Dome over Tel Aviv"
+          },
+          {
+            "id": 3,
+            "extr": "Israel said that more than 600 rockets and other projectiles had been intercepted"
+          },
+          {
+            "id": 4,
+            "extr": "two have been intercepted"
+          },
+          {
+            "id": 5,
+            "extr": "Israel claims its Iron Dome missile defence system has intercepted over 100 rockets."
+          },
+          {
+            "id": 6,
+            "extr": "About  500 rockets have been fired into Israel over past two days , and 184 have been intercepted by Iron Dome, an Israeli army spokeswoman told Businessweek, making it a fairly accurate defense system."
+          },
+          {
+            "id": 7,
+            "extr": "In August 2011, seven rockets were fired from Gaza and only six were intercepted by Iron Dome -- the last one landed in a residential area and  killed one civilian . In March, Iron Dome intercepted just 56 of 71 rockets fired at Israel's civilian centers after the death of Zohir al-Qaisi in Gaza ."
+          },
+          {
+            "id": "A1",
+            "extr": "Six missiles launched from Gaza, Iron Dome intercepted two."
+          },
+          {
+            "id": "A2",
+            "extr": "Two missiles fired from Gaza in direction of Ashkelon were destroyed."
+          },
+          {
+            "id": "A3",
+            "extr": "135 rockets fired from Gaza of  which 42 were intercepted by Iron Dome."
+          },
+          {
+            "id": "A4",
+            "extr": "Iron Dome intercepted between 75 and 90% of rockets fired on populated areas."
+          },
+          {
+            "id": "A5",
+            "extr": "Of 140 rockets fired on Israel, several intercepted above Tel Aviv by Iron Dome."
+          },
+          {
+            "id": "A6",
+            "extr": "IDF reported about 50 rockets launched from Gaza since Operation Pillar Defense."
+          },
+          {
+            "id": "A7",
+            "extr": "One rocket landed near Netivot, another intercepted by Iron Dome near Beersheva."
+          },
+          {
+            "id": "A8",
+            "extr": "Iron Dome shot down four out of five rockets."
+          },
+          {
+            "id": "A9",
+            "extr": "Iron Dome knocked down 400 rockets, with a reported kill rate of 85%."
+          },
+          {
+            "id": "A10",
+            "extr": "Iron Dome intercepted 21 of 82 rockets fired at Tel Aviv, Ashkelon, and Ashdod."
+          },
+          {
+            "id": "A11",
+            "extr": "Iron Dome shot down a Grad rocket headed for Ashkelon."
+          },
+          {
+            "id": "A12",
+            "extr": "Report of Iron Dome anti-missile system positioned near Ashkelon May 29, 2018."
+          },
+          {
+            "id": "A13",
+            "extr": "Eight rockets/mortar bombs fired from Gaza, one was intercepted by Iron Dome."
+          },
+          {
+            "id": "A14",
+            "extr": "Russian-made Grad rockets targeted Beersheba, Netevot and Sedot Hangebe."
+          },
+          {
+            "id": "A15",
+            "extr": "Hundreds of rockets fired and many intercepted by Iron Dome."
+          },
+          {
+            "id": "A16",
+            "extr": "Ashdod and Beersheba are both protected by Iron Dome battalions."
+          },
+          {
+            "id": "A17",
+            "extr": "302 of 900 rockets fired from Gaza were hit by Iron Dome system."
+          },
+          {
+            "id": "A18",
+            "extr": "March 20, 2013 President Obama visited an Iron Dome missile battery."
+          },
+          {
+            "id": "A19",
+            "extr": "Iron Dome intercepting Hamas rockets from Gaza with a claimed 90% success rate."
+          },
+          {
+            "id": "A20",
+            "extr": "Iron Dome intercepted a rocket headed for port city of Ashkelon."
+          },
+          {
+            "id": "A21",
+            "extr": "IDF reported Iron Dome intercepted a rocket fired from Gaza toward Ashkelon."
+          },
+          {
+            "id": "A22",
+            "extr": "More than 800 rockets fired by Hamas since the offensive began."
+          },
+          {
+            "id": "A23",
+            "extr": "90 rocket attacks from Gaza into southern Israeli communities."
+          },
+          {
+            "id": "A24",
+            "extr": "US FAA temporarily halted flights to Tel Aviv due to near miss by rocket fired from Gaza."
+          },
+          {
+            "id": "A25",
+            "extr": "37 of 130 rockets fired into southern Israel were shot down by Iron Dome."
+          },
+          {
+            "id": "A26",
+            "extr": "During period of eight days 421 out of 933 rockets intercepted by Iron Dome."
+          },
+          {
+            "id": "A27",
+            "extr": "Iron Dome intercepted rocket fired between cities of Acre and Nahariya."
+          },
+          {
+            "id": "A28",
+            "extr": "Iron Dome credited with an 80% success rate against rockets."
+          },
+          {
+            "id": "A29",
+            "extr": "At least nine missiles shot down by Israel's Iron Dome interceptor."
+          },
+          {
+            "id": "A30",
+            "extr": "33 out of 132 rockets fired toward Israel were intercepted by Iron Dome."
+          },
+          {
+            "id": "A31",
+            "extr": "Iron Dome credited with intercepting 86% of 521 incoming rockets from Gaza."
+          },
+          {
+            "id": "A32",
+            "extr": "Israel rushed an eighth Iron Dome into service to counter rocket fire from Gaza."
+          },
+          {
+            "id": "A33",
+            "extr": "July 16 2014 five incoming rockets fired at Ashkelon intercepted by Iron Dome."
+          },
+          {
+            "id": "A34",
+            "extr": "More than 200 rockets fired into Israel from Gaza."
+          },
+          {
+            "id": "A35",
+            "extr": "The first crude Qassam rockets were fired from Gaza towards Sderot in 2001."
+          },
+          {
+            "id": "A36",
+            "extr": "Iron Dome intercepted 138 rockets/mortar rounds out of 525 fired from Gaza."
+          },
+          {
+            "id": "A37",
+            "extr": "Palestinian militants fired more than 40 Qassam rockets into southern Israel."
+          },
+          {
+            "id": "A38",
+            "extr": "Iron Dome intercepted 578 out of 2,648 rockets fired into Israel."
+          },
+          {
+            "id": "A39",
+            "extr": "Two out of six rockets were intercepted by Iron Dome."
+          },
+          {
+            "id": "A40",
+            "extr": "Israeli Iron Dome defense system near the Syrian border in Golan Heights."
+          },
+          {
+            "id": "A41",
+            "extr": "Iron Dome intercepted one out of four rockets fired from south Lebanon."
+          },
+          {
+            "id": "A42",
+            "extr": "150 rockets launched from Gaza towards Israeli territory."
+          },
+          {
+            "id": "A43",
+            "extr": "Two rockets intercepted south of Tel Aviv by Iron Dome."
+          },
+          {
+            "id": "A44",
+            "extr": "Hamas militants fired more than 150 rockets, wounding five."
+          },
+          {
+            "id": "A45",
+            "extr": "Iron Dome deployed in three sites in southern Israel."
+          },
+          {
+            "id": "A46",
+            "extr": "Rockets hit southern Israeli resort of Eilat were not intercepted by Iron Dome."
+          },
+          {
+            "id": "A47",
+            "extr": "Around 230 Palestinian rockets and mortars fired over the border."
+          },
+          {
+            "id": "A48",
+            "extr": "40 out of 135 rockets blocked from hitting cities by Iron Dome."
+          },
+          {
+            "id": "A49",
+            "extr": "Israel's Iron Dome intercepts an incoming rocket on November 14, 2012."
+          },
+          {
+            "id": "A50",
+            "extr": "Two rockets fired from Sinai Peninsula at resort city of Eilat."
+          },
+          {
+            "id": "A51",
+            "extr": "Israeli military said more than 30 rockets fired, with three intercepted by Iron Dome."
+          }
+        ]
+      },
+      {
+        "req-num": "DR-T2-r3",
+        "req-text": "What percentage of rockets fired from Gaza are destroyed by the Iron Dome system?",
+        "req-docs": [
+          "6a27f465-647d-40ef-b7e0-f7162f3251c2",
+          "9242af0f-df74-459d-954f-89abad5808e9"
+        ],
+        "req-extr": [
+          {
+            "id": 1,
+            "extr": "Mr. Lloyd estimates that the system succeeded 30 percent to 40 percent of the time in detonating enemy warheads"
+          },
+          {
+            "id": 2,
+            "extr": "concluded that the kill rate was zero"
+          },
+          {
+            "id": 3,
+            "extr": "the Israelis claimed Iron Dome brought down 85 percent of the rockets it targeted."
+          },
+          {
+            "id": "A1",
+            "extr": "Hard to see how it could be more than 5 or 10 percent."
+          },
+          {
+            "id": "A2",
+            "extr": "184 out of 500 rockets intercepted by Iron Dome."
+          },
+          {
+            "id": "A3",
+            "extr": "Stopped four out of five of them."
+          },
+          {
+            "id": "A4",
+            "extr": "A kill rate of 85%."
+          },
+          {
+            "id": "A5",
+            "extr": "Iron Dome intercepted two projectiles successfully."
+          },
+          {
+            "id": "A6",
+            "extr": "Iron Dome intercepted two of the six missiles."
+          },
+          {
+            "id": "A7",
+            "extr": "Interception by Israel's partly-U.S. funded Iron Dome aerial defense system."
+          },
+          {
+            "id": "A8",
+            "extr": "90% success rate."
+          },
+          {
+            "id": "A9",
+            "extr": "Two rockets that soared toward Tel Aviv were knocked out of the sky."
+          },
+          {
+            "id": "A10",
+            "extr": "Iron Dome intercepted 578 of 2,648 rockets fired."
+          },
+          {
+            "id": "A11",
+            "extr": "11 Rockets fired into Israel, one intercepted by Iron Dome."
+          },
+          {
+            "id": "A12",
+            "extr": "37 of 130 rockets fired into southern Israel were shot down."
+          },
+          {
+            "id": "A13",
+            "extr": "302 of 900 rockets hit by Iron Dome."
+          },
+          {
+            "id": "A14",
+            "extr": "Iron Dome has intercepted over 100 rockets."
+          },
+          {
+            "id": "A15",
+            "extr": "Iron Dome intercepted a rocket heading for port city of Ashkelon."
+          },
+          {
+            "id": "A16",
+            "extr": "Obama visits Iron Dome battery."
+          },
+          {
+            "id": "A17",
+            "extr": "Of four fired at Tel Aviv, three were intercepted."
+          },
+          {
+            "id": "A18",
+            "extr": "Iron Dome has headed off about 90% of the rockets."
+          },
+          {
+            "id": "A19",
+            "extr": "140 rockets fired into Israel and several intercepted above Tel Aviv."
+          },
+          {
+            "id": "A20",
+            "extr": "Three rockets shot down by Iron Dome over Tel Aviv."
+          },
+          {
+            "id": "A21",
+            "extr": "Israel's Iron Dome system provided security to the residents."
+          },
+          {
+            "id": "A22",
+            "extr": "933 rockets hit Israel, while another 421 were intercepted."
+          },
+          {
+            "id": "A23",
+            "extr": "Iron Dome missile defense system shot down a Grad rocket."
+          },
+          {
+            "id": "A24",
+            "extr": "Iron Dome credited with intercepting more than 400 rockets."
+          },
+          {
+            "id": "A25",
+            "extr": "Iron Dome intercepted 21 of the 82 rockets fired."
+          },
+          {
+            "id": "A26",
+            "extr": "More than 800 rockets fired since the offensive began."
+          },
+          {
+            "id": "A27",
+            "extr": "Iron Dome has intercepted between 75 and 90 percent of rockets."
+          },
+          {
+            "id": "A28",
+            "extr": "20 rockets were fired from the Golan heights and 4 were intercepted."
+          },
+          {
+            "id": "A29",
+            "extr": "Israel rushed an eighth Iron Dome into service."
+          },
+          {
+            "id": "A30",
+            "extr": "More than 600 rockets and other projectiles had been intercepted by Iron Dome."
+          },
+          {
+            "id": "A31",
+            "extr": "Iron Dome shot down most of the rockets fired from Gaza."
+          },
+          {
+            "id": "A32",
+            "extr": "Israel's Iron Dome intercepted four rockets aimed at Tel Aviv."
+          },
+          {
+            "id": "A33",
+            "extr": "At least nine missiles were shot down by Iron Dome."
+          },
+          {
+            "id": "A34",
+            "extr": "Hamas and other groups have fired more than 200 rockets ever deeper into Israel."
+          },
+          {
+            "id": "A35",
+            "extr": "Iron Dome intercepted a rocket fired from Gaza toward Ashkelon."
+          },
+          {
+            "id": "A36",
+            "extr": "Iron Dome intercepted some of the incoming rockets."
+          },
+          {
+            "id": "A37",
+            "extr": "Two rockets intercepted by Iron Dome."
+          },
+          {
+            "id": "A38",
+            "extr": "12 of 29 rockets launched from Gaza were intercepted by Iron Dome."
+          },
+          {
+            "id": "A39",
+            "extr": "45 rockets were fired into southern Israel and three were intercepted."
+          },
+          {
+            "id": "A40",
+            "extr": "33 of 132 rockets had been intercepted by Iron Dome."
+          },
+          {
+            "id": "A41",
+            "extr": "Of 525 mortar rounds and rockets fired, another 138 rockets were intercepted."
+          },
+          {
+            "id": "A42",
+            "extr": "Rocket launched from the Israel anti-missile system Iron Dome."
+          },
+          {
+            "id": "A43",
+            "extr": "Iron Dome intercepted one of four rockets fired from south Lebanon."
+          },
+          {
+            "id": "A44",
+            "extr": "Iron Dome intercepts an incoming rocket on November 14, 2012."
+          },
+          {
+            "id": "A45",
+            "extr": "40 of 135 rockets were blocked from hitting cities by Iron Dome."
+          },
+          {
+            "id": "A46",
+            "extr": "Three rockets intercepted above the area of Ashkelon."
+          }
+        ]
+      },
+      {
+        "req-num": "DR-T2-r4",
+        "req-text": "Identify key government officials and organizations in support of funding for the Iron Dome system.",
+        "req-docs": [
+          "6a27f465-647d-40ef-b7e0-f7162f3251c2"
+        ],
+        "req-extr": [
+          {
+            "id": 1,
+            "extr": "Missile Defense Advocacy Alliance"
+          },
+          {
+            "id": "A1",
+            "extr": "Obama has earmarked millions of dollars for Israeli defense including Iron Dome."
+          },
+          {
+            "id": "A2",
+            "extr": "Netanyahu thanked US congressional representatives for support in funding."
+          },
+          {
+            "id": "A3",
+            "extr": "US planning to buy two batteries of the Israeli-made Iron Dome system."
+          },
+          {
+            "id": "A4",
+            "extr": "State owned Rafael Advanced Defense Systems Ltd."
+          },
+          {
+            "id": "A5",
+            "extr": "Town mayors said Iron Dome provided security to the residents."
+          },
+          {
+            "id": "A6",
+            "extr": "Yair Ramati, the director of the Israel Missile Defense Organization."
+          },
+          {
+            "id": "A7",
+            "extr": "Barack Obama arrived in Tel Aviv and stated that Israel has not greater friend than   the U.S. and was shown Israel's Iron Dome missile battery at Ben Gurion Airport."
+          }
+        ]
+      },
+      {
+        "req-num": "DR-T2-r5",
+        "req-text": "Identify co-production efforts of Iron Dome by the U.S. and other countries.",
+        "req-docs": [
+          "9242af0f-df74-459d-954f-89abad5808e9",
+          "db734582-7739-4ca2-ae79-a244578cb0fc"
+        ],
+        "req-extr": [
+          {
+            "id": 1,
+            "extr": "developed by Rafael Advanced Defense Systems, a Haifa arms company, with partial funding from the United States"
+          },
+          {
+            "id": 2,
+            "extr": "funding to Iron Dome , which has received hundreds of millions of dollars from the United States"
+          },
+          {
+            "id": 3,
+            "extr": "The US military has asked Congress for $373 million to buy the two batteries and have them delivered by 2020, the sources said Wednesday."
+          },
+          {
+            "id": "A1",
+            "extr": "U.S.to purchase two batteries of Iron Dome for $373 million."
+          },
+          {
+            "id": "A2",
+            "extr": "U,S, has earmarked hundreds of millions of dollars for Iron Dome."
+          },
+          {
+            "id": "A3",
+            "extr": "The United States has extensively underwritten the projects."
+          },
+          {
+            "id": "A4",
+            "extr": "The system built by Israeli companies but financed by the United States."
+          },
+          {
+            "id": "A5",
+            "extr": "Congress approved $225 million in emergency funds for military operations including"
+          },
+          {
+            "id": "A6",
+            "extr": "its \"Iron Dome.\""
+          },
+          {
+            "id": "A7",
+            "extr": "Defense cooperation between Israel and the United States has never been better."
+          },
+          {
+            "id": "A8",
+            "extr": "Israel will have no greater friend than the United States."
+          },
+          {
+            "id": "A9",
+            "extr": "U.S. sets record $38 billion Israel military aid deal."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "task-num": "DR-T3",
+    "task-title": "PRC and Nigeria Relations",
+    "task-stmt": "Provide information on the relationship between the People's Republic of China and Nigeria.",
+    "task-link": "https://en.wikipedia.org/wiki/China%E2%80%93Nigeria_relations",
+    "task-narr": "Characterize the economic, military, and diplomatic relationship between China and Nigeria.",
+    "task-in-scope": "Reports of the impact on Nigerian industries of trade imbalance are highly relevant.",
+    "task-not-in-scope": "General discussion about China's relationships with Africa is not relevant.",
+    "task-docs": [
+      "1566665d-304d-4b14-84db-3c0c06b8acb6",
+      "b75fd776-d060-4504-b9f8-889b3e7a7d7d",
+      "a19ee623-860e-45f2-8964-a097eab01da0",
+      "0145b4ce-e217-4a97-be63-f180af8eab61",
+      "d7ea8bc3-a603-4ec8-a70a-91129e4e10a3",
+      "29d6e2a1-6ccc-47d8-b7aa-80b71b5ae827",
+      "d7d5c7c4-dabf-452f-ab85-83f8cf2bd567",
+      "722ea532-c536-4150-bd7f-b846e9a5002a",
+      "2a978268-2dcb-4668-b32b-1f2a2ec98491"
+    ],
+    "requests": [
+      {
+        "req-num": "DR-T3-r1",
+        "req-text": "What motivates China to invest in Nigeria?",
+        "req-docs": [
+          "29d6e2a1-6ccc-47d8-b7aa-80b71b5ae827",
+          "0145b4ce-e217-4a97-be63-f180af8eab61"
+        ],
+        "req-extr": [
+          {
+            "id": 1,
+            "extr": "China, the world's second-largest energy consumer, now imports about 28 percent of its oil and gas from sub-Saharan Africa,"
+          },
+          {
+            "id": 2,
+            "extr": "China has refused to back regular Western rebukes of African corruption and human-rights abuses"
+          },
+          {
+            "id": 3,
+            "extr": "China looks Africa to feed its need for everything from oil to minerals"
+          },
+          {
+            "id": "A1",
+            "extr": "China offering Nigeria loans to help fund airport terminals in four cities."
+          },
+          {
+            "id": "A2",
+            "extr": "China offering Nigeria loans to help fund roads."
+          },
+          {
+            "id": "A3",
+            "extr": "China offering Nigeria loans to help fund light rail line for its capital."
+          },
+          {
+            "id": "A4",
+            "extr": "China offering Nigeria loans to help fund a hydropower plant."
+          },
+          {
+            "id": "A5",
+            "extr": "Beijing will fund and build a new ECOWAS headquarters building in Abuja, Nigeria."
+          },
+          {
+            "id": "A6",
+            "extr": "China will maintain the new ECOWAS building in Abuja, Nigeria for 3 years."
+          }
+        ]
+      },
+      {
+        "req-num": "DR-T3-r2",
+        "req-text": "What is China's involvement in Nigerian oil production?",
+        "req-docs": [
+          "2a978268-2dcb-4668-b32b-1f2a2ec98491",
+          "29d6e2a1-6ccc-47d8-b7aa-80b71b5ae827",
+          "a19ee623-860e-45f2-8964-a097eab01da0"
+        ],
+        "req-extr": [
+          {
+            "id": 1,
+            "extr": "Nigeria is exploring the option of borrowing from multilateral organizations such as the World Bank and AFDB, as well as the Export-Import Bank of China"
+          },
+          {
+            "id": 2,
+            "extr": "In the heated race to tap a continent's oil resources, China is making headway in countries like Nigeria, where others often fear to tread."
+          },
+          {
+            "id": 3,
+            "extr": "China's demand for crude oil produced in Nigeria is expected to rise tenfold to 200,000 barrels a day by 2015,"
+          },
+          {
+            "id": "A1",
+            "extr": "Total (French oil firm) sold 20% stake in Nigerian oilfield to Sinopec."
+          }
+        ]
+      },
+      {
+        "req-num": "DR-T3-r3",
+        "req-text": "Find estimates of the dollar value of total trade between China and Nigeria?",
+        "req-docs": [
+          "0145b4ce-e217-4a97-be63-f180af8eab61"
+        ],
+        "req-extr": [
+          {
+            "id": 1,
+            "extr": "trade between the two was two hundred billion dollars in 2012"
+          }
+        ]
+      },
+      {
+        "req-num": "DR-T3-r4",
+        "req-text": "What transportation projects have been partially or fully funded by China?",
+        "req-docs": [
+          "722ea532-c536-4150-bd7f-b846e9a5002a",
+          "a19ee623-860e-45f2-8964-a097eab01da0"
+        ],
+        "req-extr": [
+          {
+            "id": 1,
+            "extr": "additional talks are underway with other Chinese firms on other large projects, notably the Nigerian railway system."
+          },
+          {
+            "id": 2,
+            "extr": "$1.1bn in low-interest loans for much-needed infrastructure in Nigeria"
+          },
+          {
+            "id": "A1",
+            "extr": "China funding airport terminals, roads, and a light rail line"
+          },
+          {
+            "id": "A2",
+            "extr": "China signed an agreement to revamp a railway in Nigeria"
+          }
+        ]
+      },
+      {
+        "req-num": "DR-T3-r5",
+        "req-text": "What energy projects have received Chinese funding?",
+        "req-docs": [
+          "722ea532-c536-4150-bd7f-b846e9a5002a",
+          "a19ee623-860e-45f2-8964-a097eab01da0"
+        ],
+        "req-extr": [
+          {
+            "id": 1,
+            "extr": "The Buhari administration wants to grow the country\u2019s power generation capacity, and the announcement of the hydropower station project appears to be good news, both for Abuja and Beijing. China is providing most of the funding through its Export-Import Bank"
+          },
+          {
+            "id": 2,
+            "extr": "a hydropower plant and oil and gas infrastructure"
+          },
+          {
+            "id": "A1",
+            "extr": "Chinese to build 3,050 megawatt hydroelectric plant in Mambilla"
+          }
+        ]
+      },
+      {
+        "req-num": "DR-T3-r6",
+        "req-text": "Give examples of Norinco, China's defense corporation, doing business in Nigeria.",
+        "req-docs": [
+          "29d6e2a1-6ccc-47d8-b7aa-80b71b5ae827"
+        ],
+        "req-extr": [
+          {
+            "id": 1,
+            "extr": "China has also agreed to sell armaments to Nigeria -- $251 million worth of Chinese fighter jets, financed by China's Exim Bank -- and satellite technology provided by defense contractor Norinco."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "task-num": "DR-T4",
+    "task-title": "Flint Water Crisis",
+    "task-stmt": "Examine the causes and responses to the Flint water crisis that exposed residents to high levels of lead poisoning",
+    "task-link": "https://en.wikipedia.org/wiki/Flint_water_crisis",
+    "task-narr": "The Flint water crisis is a public health crisis that started in 2014, after the drinking water source for the city of Flint, Michigan was changed from treated Detroit Water and Sewerage Department water (sourced from Lake Huron and the Detroit River) to the Flint River.  As a result, the Flint residents were exposed to elevated levels of lead.",
+    "task-in-scope": "",
+    "task-not-in-scope": "",
+    "task-docs": [
+      "8af0b51a-cede-4822-941c-5dc32fcc5317",
+      "c3bf0c82-a87d-4fab-90cb-f5d50f4e322b",
+      "201b1cd0-2e22-4302-925c-cab2484780c3",
+      "0257686d-8405-4fca-9627-1c77fa104a20",
+      "fc9faf22-2207-478c-80b6-963491cb3c87",
+      "850614de-9567-452e-a05d-3cdd076e322c",
+      "0775e00a-f4f0-42e1-a95b-39711518d415",
+      "c65bb757-5947-4f49-93f5-cb29ba2f19c2",
+      "5917c83a-28e7-4cfd-93ce-979447e6b233",
+      "f4c8cbfe-0a91-481f-8697-e686ec80f197",
+      "d0d7e0a7-a76a-4321-8f9d-93ec2f84fd75",
+      "f81823fa-5615-4792-b41e-b68948268376",
+      "77a50dff-ba25-4041-a05c-cf107fdaec99",
+      "bd217dac-4b12-4dc4-8137-79faf6f164b1",
+      "98522098-a3a8-4413-97bf-ea7ba574aad4",
+      "967080cb-abbe-481e-8ab8-4d507c2eddaa"
+    ],
+    "requests": [
+      {
+        "req-num": "DR-T4-r1",
+        "req-text": "Identify the events in 2014 leading to increased lead in Flint's drinking water.",
+        "req-docs": [
+          "77a50dff-ba25-4041-a05c-cf107fdaec99",
+          "8af0b51a-cede-4822-941c-5dc32fcc5317"
+        ],
+        "req-extr": [
+          {
+            "id": 1,
+            "extr": "the lead contamination that began in April 2014, when Flint began using the Flint River as its water supply to save money."
+          },
+          {
+            "id": 2,
+            "extr": "the state of Michigan ran Flint\u2019s day-to-day operations through an emergency manager, who prioritized balancing the city\u2019s budget through a cost-cutting measure: switching Flint\u2019s water source in April 2014 from Lake Huron, which serviced the city for more than 50 years, to a local river."
+          },
+          {
+            "id": "A1",
+            "extr": "Flint city emergency managers wanted Flint to help finance the Karegnondi Water Authority, a new pipeline still under construction."
+          },
+          {
+            "id": "A2",
+            "extr": "Officials did not treat the Flint River water with chemicals that would have prevented lead from leaching from pipes and plumbing fixtures into the drinking water."
+          }
+        ]
+      },
+      {
+        "req-num": "DR-T4-r2",
+        "req-text": "Why did the change result in elevated levels of lead?",
+        "req-docs": [
+          "0775e00a-f4f0-42e1-a95b-39711518d415",
+          "f81823fa-5615-4792-b41e-b68948268376"
+        ],
+        "req-extr": [
+          {
+            "id": 1,
+            "extr": "in the two years since officials switched the city water source from Lake Huron to the Flint River to save money. The highly polluted river corroded old pipes and leached lead into tap water, according to experts."
+          },
+          {
+            "id": 2,
+            "extr": "The pipes began leaching lead into the water supply in 2014, when the Flint River became the primary source of water for the city and officials failed to add corrosion controls to prevent the pipes from eroding."
+          },
+          {
+            "id": "A1",
+            "extr": "Officials decided not to add anti-corrosive agents (called phosphates) to the water supply out of fear it would grow bacteria."
+          }
+        ]
+      },
+      {
+        "req-num": "DR-T4-r3",
+        "req-text": "Identify any studies of lead levels in children in Flint, and any official reactions to those studies.",
+        "req-docs": [
+          "77a50dff-ba25-4041-a05c-cf107fdaec99",
+          "fc9faf22-2207-478c-80b6-963491cb3c87"
+        ],
+        "req-extr": [
+          {
+            "id": 1,
+            "extr": "the three employees learned last July of a spike in the number of Flint children with elevated blood lead levels but concealed the results."
+          },
+          {
+            "id": 2,
+            "extr": "public health workers are trying to monitor thousands of Flint children who may have been exposed to high levels of lead,"
+          },
+          {
+            "id": "A1",
+            "extr": "Dr. Mona Hanna-Attisha, who works in the pediatric ward of Flint's Hurley Medical Center, recalled tests showing toddlers' blood lead levels had doubled and, in some cases, tripled."
+          },
+          {
+            "id": "A2",
+            "extr": "The Flint Child Health and Development Fund was created to aid children exposed to lead."
+          }
+        ]
+      },
+      {
+        "req-num": "DR-T4-r4",
+        "req-text": "Identify any government officials criminally charged as a result of the water crisis.",
+        "req-docs": [
+          "77a50dff-ba25-4041-a05c-cf107fdaec99",
+          "fc9faf22-2207-478c-80b6-963491cb3c87",
+          "c3bf0c82-a87d-4fab-90cb-f5d50f4e322b"
+        ],
+        "req-extr": [
+          {
+            "id": 1,
+            "extr": "three from Michigan\u2019s Department of Health and Human Services and three from its Department of Environmental Quality"
+          },
+          {
+            "id": 2,
+            "extr": "Liane Shekter Smith"
+          },
+          {
+            "id": 3,
+            "extr": "Adam Rosenthal"
+          },
+          {
+            "id": 4,
+            "extr": "Patrick Cook"
+          },
+          {
+            "id": 5,
+            "extr": "Nancy Peeler"
+          },
+          {
+            "id": 6,
+            "extr": "Robert Scott"
+          },
+          {
+            "id": 7,
+            "extr": "Corinne Miller"
+          },
+          {
+            "id": 8,
+            "extr": "Michael Glasgow"
+          },
+          {
+            "id": 9,
+            "extr": "Gerald Ambrose"
+          },
+          {
+            "id": 10,
+            "extr": "Darnell Early"
+          },
+          {
+            "id": 11,
+            "extr": "Howard Croft"
+          },
+          {
+            "id": 12,
+            "extr": "Daugherty Johnson"
+          },
+          {
+            "id": "A1",
+            "extr": "Stephen Busch, Michigan Department of Environmental Quality district water supervisor."
+          },
+          {
+            "id": "A2",
+            "extr": "Mike Prysby, Michigan Department of Environmental Quality district water engineer"
+          }
+        ]
+      },
+      {
+        "req-num": "DR-T4-r5",
+        "req-text": "Did the water supply switch in 2014 increase cases of Legionnaires Disease",
+        "req-docs": [
+          "bd217dac-4b12-4dc4-8137-79faf6f164b1",
+          "c3bf0c82-a87d-4fab-90cb-f5d50f4e322b",
+          "201b1cd0-2e22-4302-925c-cab2484780c3"
+        ],
+        "req-extr": [
+          {
+            "id": 1,
+            "extr": "release of emails that showed state and local officials had also delayed warning residents about an outbreak of Legionnaire\u2019s disease that they suspected could be related to the water supply"
+          },
+          {
+            "id": 2,
+            "extr": "In addition, the corrosion gave other bacteria -- such as legionella, a cause of Legionnaires' disease -- a place to flourish, and Flint had one of the nation's largest outbreaks of that disease."
+          },
+          {
+            "id": 3,
+            "extr": "Michigan state officials were aware of an increase in Legionnaires\u2019 disease cases"
+          }
+        ]
+      },
+      {
+        "req-num": "DR-T4-r6",
+        "req-text": "Identify civil suits filed in response to the Flint water crisis, and the parties to each lawsuit.",
+        "req-docs": [
+          "0775e00a-f4f0-42e1-a95b-39711518d415",
+          "850614de-9567-452e-a05d-3cdd076e322c",
+          "8af0b51a-cede-4822-941c-5dc32fcc5317"
+        ],
+        "req-extr": [
+          {
+            "id": 1,
+            "extr": "An administrative complaint against the U.S. Environmental Protection Agency alleges negligence and demands more than $220 million in damages for its role in the Flint, Michigan, water crisis."
+          },
+          {
+            "id": 2,
+            "extr": "The complaint was filed on behalf Jan Burgess and 513 other current and former Flint residents who were exposed to \"toxic and highly corrosive\" water for 539 days, beginning on April 25, 2014, according to the complaint. An additional filing on behalf of another 250 Flint water users is to be made next week."
+          },
+          {
+            "id": 3,
+            "extr": "More than a dozen lawsuits, including several class-action ones, have been filed in state, county and federal courts in Michigan, according to legal experts. The remedies sought range from monetary compensation for lead poisoning to refunds for water bills."
+          },
+          {
+            "id": 4,
+            "extr": "More than 50 lawsuits have been filed since January, accusing the city of being complicit in the water crisis for not doing enough during the 18 months in which Flint was getting its drinking water from the polluted Flint River."
+          },
+          {
+            "id": 5,
+            "extr": "A federal racketeering lawsuit by hundreds of resident in Flint, Michigan , is alleging the city\u2019s two-year water crisis was the result of an\u201cintentional scheme\u201d crafted by state officials and Michigan\u2019s governor, Rick Snyder, to balance the city\u2019s budget."
+          }
+        ]
+      },
+      {
+        "req-num": "DR-T4-r7",
+        "req-text": "Describe support given by the Federal government to Flint residents during the water crisis.",
+        "req-docs": [
+          "5917c83a-28e7-4cfd-93ce-979447e6b233",
+          "c65bb757-5947-4f49-93f5-cb29ba2f19c2",
+          "967080cb-abbe-481e-8ab8-4d507c2eddaa"
+        ],
+        "req-extr": [
+          {
+            "id": 1,
+            "extr": "Over the weekend, Obama declared a state of emergency in Flint, which allows the Federal Emergency Management Agency to provide the city with bottled water and filters worth up to $5 million."
+          },
+          {
+            "id": 2,
+            "extr": "The measure, which began as a $600 million request from Democrats, had been trimmed to a $220 million proposal to fix Flint\u2019s infrastructure, help with the ensuing health care crisis and to support more than $1 billion in infrastructure loans that could have gone to Flint and other places dealing with lead problems."
+          },
+          {
+            "id": 3,
+            "extr": "President Barack Obama announced on Thursday that $80 million in new funding would be available to Michigan next week in order to help the state improve its water infrastructure."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "task-num": "DR-T5",
+    "task-title": "Vatican Financial Reforms",
+    "task-stmt": "To understand the extent of reforms instituted at the Vatican Bank to combat financial crimes, in particular money laundering.",
+    "task-link": "https://en.wikipedia.org/wiki/Institute_for_the_Works_of_Religion",
+    "task-narr": "The Catholic Church has been embroiled in a series of financial scandals, among them money laundering schemes, over the years.  Beginning in 2010, Pope Benedict ordered procedures to clean up financial activity by the Vatican Bank (Institute for Works of Religion or IOR).  Pope Francis made financial reform a top priority following his election in 2013.  This task is to understand operations at the Vatican Bank, the procedures implemented to counter money laundering, and the effectiveness of those procedures since 2010.",
+    "task-in-scope": "",
+    "task-not-in-scope": "Information on the operations of the Vatican's Treasury, or Administration of the Patrimony of the Apostolic See, is not relevant.",
+    "task-docs": [
+      "fea8a373-3d80-4f5d-935f-2b17e18e682a",
+      "6df4d84c-8d27-4c38-9517-4f64b3525a50",
+      "acb35d80-109f-49dc-93eb-eba874fa715a",
+      "09631999-1e8a-4d49-a6d4-646bc99fe087",
+      "dbace8af-51a3-4615-9624-9ba0320599b9",
+      "f2b492fd-7b6f-47e3-b8db-62e2987bb003",
+      "672e1268-229f-4053-a761-f97bed1b3e7e",
+      "6e90a4ff-ecOb-4a1a-8e70-1f4631ea168d",
+      "1338c1c4-35f4-4423-8bf6-8404116333f9",
+      "c25d0c44-0e3c-48a7-ba99-51fd4984ca8e",
+      "ef629023-56d0-44be-9136-aaf283647029",
+      "25a80551-fd96-4e50-803b-b4adf2596c7f",
+      "4740db90-1c3e-44ab-9dee-30335fc7ca8b",
+      "478ba598-c7a4-4eb3-a77d-80ad34ec3f66"
+    ],
+    "requests": [
+      {
+        "req-num": "DR-T5-r1",
+        "req-text": "Identify officials within the Vatican Bank, to include any biographical information.",
+        "req-docs": [
+          "4740db90-1c3e-44ab-9dee-30335fc7ca8b",
+          "1338c1c4-35f4-4423-8bf6-8404116333f9"
+        ],
+        "req-extr": [
+          {
+            "id": 1,
+            "extr": "Ernst von Freyberg"
+          },
+          {
+            "id": 2,
+            "extr": "The Swiss-born Rene Brulhart, who heads up the regulator"
+          },
+          {
+            "id": 3,
+            "extr": "President Ettore Gotti Tedeschi"
+          },
+          {
+            "id": 4,
+            "extr": "Director-General (Paolo) Cipriani"
+          },
+          {
+            "id": 5,
+            "extr": "The new IOR panel will be chaired by Cardinal Raffaele Farina"
+          },
+          {
+            "id": 6,
+            "extr": "Harvard Law Professor Mary Ann Glendon"
+          },
+          {
+            "id": "A1",
+            "extr": "Jean-Baptiste de Franssu, president of the Vatican Bank"
+          }
+        ]
+      },
+      {
+        "req-num": "DR-T5-r2",
+        "req-text": "Identify Bank of Italy's efforts to implement international regulations within the Vatican Bank.",
+        "req-docs": [
+          "478ba598-c7a4-4eb3-a77d-80ad34ec3f66",
+          "acb35d80-109f-49dc-93eb-eba874fa715a"
+        ],
+        "req-extr": [
+          {
+            "id": 1,
+            "extr": "It is not entirely clear how much legal authority Italian officials have over the Vatican Bank, since the Vatican is a sovereign state."
+          },
+          {
+            "id": 2,
+            "extr": "Italian banks effectively stopped dealing with the IOR in 2010 after the Bank of Italy ordered them to enforce strict anti-money laundering criteria to continue working with it."
+          },
+          {
+            "id": 3,
+            "extr": "From January 1 to February 12 last year the Bank of Italy froze all credit-card and ATM transactions inside the Vatican City over its failure to fully implement international anti-money-laundering standards."
+          }
+        ]
+      },
+      {
+        "req-num": "DR-T5-r3",
+        "req-text": "Describe steps taken by the Vatican Bank to implement anti-money laundering procedures.",
+        "req-docs": [
+          "672e1268-229f-4053-a761-f97bed1b3e7e",
+          "c25d0c44-0e3c-48a7-ba99-51fd4984ca8e",
+          "acb35d80-109f-49dc-93eb-eba874fa715a"
+        ],
+        "req-extr": [
+          {
+            "id": 1,
+            "extr": "The 64-page report details how the Vatican is looking to crack down on money laundering and the financing of terrorist activities"
+          },
+          {
+            "id": 2,
+            "extr": "Pope Francis has also tightened finance laws following allegations of money-laundering."
+          },
+          {
+            "id": 3,
+            "extr": "The IOR has implemented further reforms to enhance its overall risk management function and to allow for a high level of transparency for the overall process"
+          }
+        ]
+      },
+      {
+        "req-num": "DR-T5-r4",
+        "req-text": "Identify cases of money laundering that have been reported, whether or not they have led to prosecution.",
+        "req-docs": [
+          "672e1268-229f-4053-a761-f97bed1b3e7e",
+          "6df4d84c-8d27-4c38-9517-4f64b3525a50"
+        ],
+        "req-extr": [
+          {
+            "id": 1,
+            "extr": "The document from the Financial Intelligence Authority shows six reports of \"suspicious activity\" in the past year, up from just one in 2011."
+          },
+          {
+            "id": 2,
+            "extr": "29 money laundering investigations launched"
+          },
+          {
+            "id": "A1",
+            "extr": "In 2015, a department of the Holy See was used for possible money laundering"
+          },
+          {
+            "id": "A2",
+            "extr": "Allegations that IOR laundered money from Roberto Calvi."
+          },
+          {
+            "id": "A3",
+            "extr": "Two Vatican Bank transactions did not appear to comply with anti-money laundering"
+          },
+          {
+            "id": "A4",
+            "extr": "Scarano issued arrest warrant for involvement in laundering of millions of euros"
+          },
+          {
+            "id": "A5",
+            "extr": "Ettore Gotti Tedesch and Paolo Cipriani were under investigation"
+          }
+        ]
+      },
+      {
+        "req-num": "DR-T5-r5",
+        "req-text": "Has the Vatican Bank been certified as one of the \"white list\" international banking institutions?",
+        "req-docs": [
+          "4740db90-1c3e-44ab-9dee-30335fc7ca8b",
+          "dbace8af-51a3-4615-9624-9ba0320599b9"
+        ],
+        "req-extr": [
+          {
+            "id": 1,
+            "extr": "is now working with the Council of Europe's Moneyval anti-money-laundering agency in a bid to make it onto the international 'white list' of banking."
+          },
+          {
+            "id": 2,
+            "extr": "Tedeschi said he also realized the need to speed up the process of getting the Vatican Bank on the \"white list\" of banks that comply with internationally agreed standards,"
+          },
+          {
+            "id": 3,
+            "extr": "n April, Italy put the Vatican on its \"white list\" of states with cooperative financial institutions, ending years of mistrust."
+          }
+        ]
+      },
+      {
+        "req-num": "DR-T5-r6",
+        "req-text": "Describe establishment and purpose of the Vatican financial intelligence authority, the AIF.",
+        "req-docs": [
+          "dbace8af-51a3-4615-9624-9ba0320599b9",
+          "1338c1c4-35f4-4423-8bf6-8404116333f9"
+        ],
+        "req-extr": [
+          {
+            "id": 1,
+            "extr": "The AIF passes on reports it deems worthy of further investigation to the prosecutor's office. But the report lamented the lack of prosecution in cases of suspected money laundering"
+          },
+          {
+            "id": 2,
+            "extr": "The Moneyval report said the AIF's supervision of the IOR \"is now firmly established\"."
+          },
+          {
+            "id": 3,
+            "extr": "Established by Benedict XVI in 2010, the AIF is charged with monitoring the commercial and monetary activities of Vatican agencies like the Vatican Bank."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "task-num": "DR-T6",
+    "task-title": "Peace Efforts on the Korean peninsula",
+    "task-stmt": "To understand the issues surrounding efforts to obtain peace for North and South Korea.",
+    "task-link": "https://en.wikipedia.org/wiki/April_2018_inter-Korean_summit",
+    "task-narr": "In 2018 talks began between North and South Korea to discuss peace on the Korean peninsula with emphasis on denuclearization.  The talks included the United States role in the peace effort.",
+    "task-in-scope": "Documents that are relevant include those that identify dates, people, places, agreements made, as well as obstacles and threats that might compromise the peace efforts.",
+    "task-not-in-scope": "",
+    "task-docs": [
+      "5de17880-a0c3-473f-a486-8cb458aaa323",
+      "488878ce-154e-4b51-b033-57e30ecf03b9",
+      "6a56490d-769e-4616-82fc-671ca55b2b18",
+      "c93d8fdb-f4c1-495b-b153-4af604b665b6",
+      "d354e762-9aba-41c9-be82-12d58effb6d8",
+      "d5e9a7aa-6306-4791-b985-b6b71ada2c6c",
+      "3596e0ae-a7d2-4dae-832c-29e41814dc67",
+      "2d69ac9e-f910-441b-bda0-1a44f94fe4ac",
+      "1d79acd4-e250-4425-a383-64f0b56de708",
+      "8bfb1f32-88c6-46b4-a2db-448c6fa8d687",
+      "18255895-8c0c-4337-92a2-5ebba364ea5b",
+      "36e5d2e4-e9b2-47a3-bd2f-1dd7aa482245",
+      "4a07eb9e-f5d0-44c7-806f-92af9b9549fa",
+      "a723500b-bb2e-412c-8379-b51fdd72ec8a",
+      "361dcec9-5877-47cd-9612-8732aa3e8726",
+      "7b01cdb1-6261-464f-9d02-c379fdbe090e",
+      "d725feea-1835-4b86-b933-04ed2a1d7ba1",
+      "2145416c-cffd-40a1-8efd-cf382363c4cf",
+      "ca7ecd10-838f-4fe7-b658-79f13c81682e",
+      "6055cd9d-cb2c-490b-a612-84021f1a2b70",
+      "8b5cc859-e614-4b69-9bc6-f959830c506a",
+      "7e374ab7-d4b1-4800-a43e-3a4ef0029720",
+      "4182992d-be69-454c-865c-4d500eea488c",
+      "ad2b886d-95bd-40a5-a020-ff87206753a6",
+      "41cc6a2b-ad85-4e53-8310-811a9551ee09",
+      "aeb5c162-5cef-4488-98ae-c13a098fa646",
+      "213b4ed1-fd39-4239-ac41-814391288b35",
+      "39ab7b54-bcb5-430b-9091-13405df4accf",
+      "167b3ea5-f3d8-4708-8c66-ad906dfbecff",
+      "90e57bee-db3f-4f9c-86bc-f94f69f0fad9",
+      "cfad1977-6f5c-4a2b-954d-75384cfca166",
+      "7fbf92f4-e3ab-4b18-8a21-b2c0eff1ea2f",
+      "ed86d965-7be5-4a94-a663-c88563845a5d",
+      "52e066ea-4996-4e98-b23e-8023642275ed",
+      "7271379e-1bdc-4222-a056-7d17bfb3976c",
+      "e5d275e1-04be-44d8-a658-8b6e6494f643"
+    ],
+    "requests": [
+      {
+        "req-num": "DR-T6-r1",
+        "req-text": "Identify summit meetings between North and South Korea taking place in 2018.",
+        "req-docs": [
+          "6a56490d-769e-4616-82fc-671ca55b2b18",
+          "a723500b-bb2e-412c-8379-b51fdd72ec8a"
+        ],
+        "req-extr": [
+          {
+            "id": 1,
+            "extr": "South Korean President Moon Jae-in met with Kim in a historic summit, agreeing on Friday"
+          },
+          {
+            "id": 2,
+            "extr": "South Korea's presidential office had said that Kim told South Korean President Moon Jae-in during their summit last month"
+          },
+          {
+            "id": 3,
+            "extr": "After their April 27 meeting, Kim and Moon"
+          },
+          {
+            "id": 4,
+            "extr": "For the first time in over a decade, the leaders of a divided Korea will sit down Friday to negotiate an end to a decades-long rivalry which has threatened at times to plunge the world into nuclear war."
+          }
+        ]
+      },
+      {
+        "req-num": "DR-T6-r2",
+        "req-text": "Describe the terms of the Panmunjom Declaration.",
+        "req-docs": [
+          "18255895-8c0c-4337-92a2-5ebba364ea5b",
+          "1d79acd4-e250-4425-a383-64f0b56de708"
+        ],
+        "req-extr": [
+          {
+            "id": 1,
+            "extr": "In the recent, historic Panmunjom summit, Kim and South Korean President Moon Jae-in pledged to end the war on the Korean Peninsula. Rodong Sinmun, the official newspaper of North Korea\u2019s Workers\u2019 Party, carried the full text of the Panmunjom Declaration, which clearly states North Korea is intent on \"complete denuclearization.\""
+          },
+          {
+            "id": 2,
+            "extr": "No war on Korean Peninsula, complete denuclearization, formal end to Korean War this year"
+          },
+          {
+            "id": "A1",
+            "extr": "Kim Jung un and Moon Jae-in participate in tree-planting 4/2018"
+          },
+          {
+            "id": "A2",
+            "extr": "Two Koreas agreed to to connect and modernize railways 5/2018"
+          },
+          {
+            "id": "A3",
+            "extr": "presidential Blue House revealed symbolic step of goodwill 4/29"
+          },
+          {
+            "id": "A4",
+            "extr": "High level talks suspended with ROK  5/2018"
+          },
+          {
+            "id": "A5",
+            "extr": "Kim and Moon signed three page 4/27"
+          },
+          {
+            "id": "A6",
+            "extr": "in depth talks held about denuclearization mechanism"
+          },
+          {
+            "id": "A7",
+            "extr": "no reason to retain nuclear weapons"
+          },
+          {
+            "id": "A8",
+            "extr": "willing to hold talks came from South Korean officials"
+          },
+          {
+            "id": "A9",
+            "extr": "North Korea unilaterally suspended the talks because of imprudent"
+          },
+          {
+            "id": "A10",
+            "extr": "Nuclear tests suspended , major test site closed 5/2018"
+          },
+          {
+            "id": "A11",
+            "extr": "North agrees to send athletes to winter olympics  2018"
+          }
+        ]
+      },
+      {
+        "req-num": "DR-T6-r3",
+        "req-text": "Describe China's role in Korean peninsula peace efforts.",
+        "req-docs": [
+          "7b01cdb1-6261-464f-9d02-c379fdbe090e",
+          "ad2b886d-95bd-40a5-a020-ff87206753a6"
+        ],
+        "req-extr": [
+          {
+            "id": 1,
+            "extr": "China, North Korea's sole major ally, called for the summit to go ahead."
+          },
+          {
+            "id": 2,
+            "extr": "North Korea turned to China because, as the North\u2019s biggest economic benefactor,"
+          },
+          {
+            "id": "A1",
+            "extr": "two leaders agreed that north should be guaranteed a bright future"
+          },
+          {
+            "id": "A2",
+            "extr": "two countries commit to nuclear-free peninsula"
+          },
+          {
+            "id": "A3",
+            "extr": "Panmunjeom Declaration of Peace agreement 4/18"
+          },
+          {
+            "id": "A4",
+            "extr": "convincing China to join  tougher sanctions against North Korea"
+          },
+          {
+            "id": "A5",
+            "extr": "DPRK suspends talks with ROK 5/2018"
+          },
+          {
+            "id": "A6",
+            "extr": "Trump would insist on North Korean denuclearization"
+          },
+          {
+            "id": "A7",
+            "extr": "North and South linked public telephone lines"
+          },
+          {
+            "id": "A8",
+            "extr": "Trump-Kim summit threatened"
+          }
+        ]
+      },
+      {
+        "req-num": "DR-T6-r4",
+        "req-text": "Identify threats by North Korea to cancel negotiations and/or denuclearization.",
+        "req-docs": [
+          "4182992d-be69-454c-865c-4d500eea488c",
+          "7b01cdb1-6261-464f-9d02-c379fdbe090e",
+          "ad2b886d-95bd-40a5-a020-ff87206753a6",
+          "7e374ab7-d4b1-4800-a43e-3a4ef0029720",
+          "52e066ea-4996-4e98-b23e-8023642275ed"
+        ],
+        "req-extr": [
+          {
+            "id": 1,
+            "extr": "North Korean threats to cancel his planned summit with Kim Jong Un"
+          },
+          {
+            "id": 2,
+            "extr": "After weeks of warm words and diplomatic backslapping, Pyongyang abruptly threatened to pull out Tuesday, over US demands for \"unilateral nuclear abandonment.\""
+          },
+          {
+            "id": 3,
+            "extr": "The White House brushed aside threats by North Korea on Wednesday to cancel an upcoming summit meeting between President Trump and the North\u2019s leader, Kim Jong-un"
+          },
+          {
+            "id": 4,
+            "extr": "North Korea might not go through with a planned summit with Donald Trump after all, an official has warned, if it is pushed to abandon its nuclear programme."
+          },
+          {
+            "id": 5,
+            "extr": "North Korea has suspended high-level talks with South Korea due to US-South Korean military exercises and warned that a summit next month between Kim Jong-un and Donald Trump could be in jeopardy."
+          },
+          {
+            "id": "A1",
+            "extr": "North Korea sends athletes to Olympics in South Korea"
+          },
+          {
+            "id": "A2",
+            "extr": "North Korea no shows at meeting to discuss U.S. remains"
+          },
+          {
+            "id": "A3",
+            "extr": "United States is target of North Korean missiles"
+          },
+          {
+            "id": "A4",
+            "extr": "South discussions with north to denuclearize region and hold talks with U.S."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "task-num": "DR-T7",
+    "task-title": "Solar power in the US",
+    "task-stmt": "To understand the development of solar energy in the US.  How did it start, how did it grow to industrial scale and significant residential penetration. Solar energy required public and private investment in the production of the solar panels.",
+    "task-link": "https://en.wikipedia.org/wiki/Solar_power_in_the_United_States",
+    "task-narr": "The US has made significant investments in solar energy over the past decade.  Currently, residential photovoltaics supply the majority of solar power in the US, but recently large scale solar power generation facilities have been deployed in southwestern states.  The boom in solar energy is creating new jobs in manufacturing, installation, and power generation.  Recently, tariffs have brought some uncertainty to the marketplace.",
+    "task-docs": [
+      "893c4fe0-20b9-4006-9734-72bdcbc58bb6",
+      "a3c938c2-1fc2-40f2-8839-1f232aa3d340",
+      "dc410cfe-2a53-4b8f-9623-fbe9cbdefbe4",
+      "ee8211e8-816f-4756-9333-ee71cd3308d7",
+      "30e17c89-f139-4226-b0a8-42c87d0aaf5f",
+      "38ccdb8d-8088-40d1-ba62-7141ae1a7ab7",
+      "300901b2-e7a7-4e91-9715-8f219e14fc54",
+      "d3e85d6f-753a-45d3-8302-c9c6a1eb0945",
+      "29098d3c-00f9-4860-97e2-f04e9471efcf",
+      "ecbc981f-b8c8-48d5-9c39-20da874ff89a"
+    ],
+    "requests": [
+      {
+        "req-num": "DR-T7-r1",
+        "req-text": "Identify large scale solar electricity generation plants by location, year of construction and power output",
+        "req-docs": [
+          "893c4fe0-20b9-4006-9734-72bdcbc58bb6",
+          "ecbc981f-b8c8-48d5-9c39-20da874ff89a",
+          "574492e2-5b78-4fd5-8e27-24b7b5386575",
+          "f6cee36e-8201-43a9-81a1-8c56436f3a92"
+        ],
+        "req-extr": [
+          {
+            "id": 1,
+            "extr": "The farm , halfway between Los Angeles and San Francisco, is the world's second-largest photovoltaic plant under construction and is expected to generate 550-megawatts of electricity or about half the power of a nuclear reactor."
+          },
+          {
+            "id": 2,
+            "extr": "Acciona Energy operates Nevada Solar One, a solar thermal installation with mirrors that gather heat from the sun and convert it into electricity. The plant produces 64 megawatts."
+          },
+          {
+            "id": 3,
+            "extr": "The latest approval goes to Tessera Solar \u2019s Calico project, to be built in the San Bernardino County desert in Southern California. Originally proposed to generate 850 megawatts"
+          },
+          {
+            "id": 4,
+            "extr": "BrightSource Energy\u2019s $2 billion Ivanpah project, the first large-scale solar thermal power plant to be built in the United States in two decades."
+          },
+          {
+            "id": 5,
+            "extr": "The new 150-megawatt, or million-watt, Mesquite 3 solar array is located in Arizona,"
+          },
+          {
+            "id": "A1",
+            "extr": "The Ivanpah plant is the first of nine multibillion-dollar solar farms."
+          },
+          {
+            "id": "A2",
+            "extr": "It will be built in in California and Arizona."
+          },
+          {
+            "id": "A3",
+            "extr": "The Ivanapth project requires continuous federal investment."
+          },
+          {
+            "id": "A4",
+            "extr": "The Ivanapath project is a 9 multibillion-dollar solar farm project"
+          },
+          {
+            "id": "A5",
+            "extr": "The Ivana plant will generate 4,00MW (megawatts) and power 3 million homes."
+          },
+          {
+            "id": "A6",
+            "extr": "NRG private company will invest in Ivanapath, $300 millions."
+          },
+          {
+            "id": "A7",
+            "extr": "Tessera Solar\u2019s Calico project, to be built in the desert in Southern California."
+          },
+          {
+            "id": "A8",
+            "extr": "The Tessera project will generate 850 MW."
+          },
+          {
+            "id": "A9",
+            "extr": "The Davis solar project started in Davis CA in 1987."
+          },
+          {
+            "id": "A10",
+            "extr": "The Davis Project expanded form 1 MW to 15 MW."
+          },
+          {
+            "id": "A11",
+            "extr": "The Solar Mesquite 3,150MW, project will be located in Arizona."
+          },
+          {
+            "id": "A12",
+            "extr": "The Mesquite 3  Solar project will supply electricity to CA."
+          },
+          {
+            "id": "A13",
+            "extr": "The Mesquite 3 project will provide electricity to naval bases."
+          },
+          {
+            "id": "A14",
+            "extr": "Acciona company built a solar, 64MW,  thermal plant outside Boulder NV."
+          },
+          {
+            "id": "A15",
+            "extr": "The boulder plant was subsidized by the Dept. of Energy."
+          },
+          {
+            "id": "A16",
+            "extr": "The ABD solar farm in Asheboro, N.C., is a large electricity generator."
+          },
+          {
+            "id": "A17",
+            "extr": "SolarCity will provide solar installations for military homes (160,000)."
+          },
+          {
+            "id": "A18",
+            "extr": "SolarCity will be financed by Google and the Dept. of Energy."
+          },
+          {
+            "id": "A19",
+            "extr": "California will need many more Ivanapth projects (23) for its solar energy target."
+          },
+          {
+            "id": "A20",
+            "extr": "Having a huge solar plant in the Moab desert is an environmental problem."
+          },
+          {
+            "id": "A21",
+            "extr": "California intends to give $54 million in subsidies users of solar energy."
+          },
+          {
+            "id": "A22",
+            "extr": "Arizona will require that 1% percent of its new electricity comes from the sun."
+          }
+        ]
+      },
+      {
+        "req-num": "DR-T7-r2",
+        "req-text": "What federal government programs have supported the growth of solar energy?",
+        "req-docs": [
+          "a3c938c2-1fc2-40f2-8839-1f232aa3d340",
+          "c41ae2ec-b178-4515-ac9b-422c722e9d3e"
+        ],
+        "req-extr": [
+          {
+            "id": 1,
+            "extr": "In 2007 Case received a grant from the federal Department of Energy that designated New York as one of 25 \"Solar American Cities,\" big cities across the country that would serve as testing grounds for solar power."
+          },
+          {
+            "id": 2,
+            "extr": "Solar developers depend on two federal programs to make their projects financially viable. The most crucial is a loan guarantee program, expiring next September, that allows them to borrow money on favorable terms to finance up to 80 percent of construction costs."
+          },
+          {
+            "id": 3,
+            "extr": "The other is the option to take a 30 percent tax credit in the form of a cash payment once a project is built. Although the tax credit does not expire until the end of 2016, the option to take it as a cash payment disappears this year, making it far less valuable to a start-up company that is just beginning to generate revenue."
+          },
+          {
+            "id": 4,
+            "extr": "access to over $520 million in new capital from foundations, local governments and social impact investors."
+          },
+          {
+            "id": "A1",
+            "extr": "A grant, of $200,000, was given to NYC."
+          },
+          {
+            "id": "A2",
+            "extr": "This grant included: government, non-profits, private companies\u2019 local utility."
+          },
+          {
+            "id": "A3",
+            "extr": "The University and DOE created 15 billion points of detain NYC."
+          },
+          {
+            "id": "A4",
+            "extr": "Each data points included for each roof: solar, cost, time, and recoup cost."
+          },
+          {
+            "id": "A5",
+            "extr": "Government, NYC, and NY State research center contributed 2 million."
+          },
+          {
+            "id": "A6",
+            "extr": "The 2 million installation was for buildings they owned."
+          },
+          {
+            "id": "A7",
+            "extr": "Government incentives boost U.S. investment in green power, Pew says"
+          },
+          {
+            "id": "A8",
+            "extr": "The U.S. gains have been boosted by government incentives."
+          },
+          {
+            "id": "A9",
+            "extr": "Government Incentive included provisions for the 2009 economic stimulus package."
+          },
+          {
+            "id": "A10",
+            "extr": "Solyndra received more than $535 million in federal loan guarantees."
+          },
+          {
+            "id": "A11",
+            "extr": "But Solyndra filed for bankruptcy in 2011."
+          },
+          {
+            "id": "A12",
+            "extr": "The CA-NV Ivanpah project received federal grants and loan guarantees."
+          },
+          {
+            "id": "A13",
+            "extr": "The party that will control the budget will influence the future, on the federal funding."
+          },
+          {
+            "id": "A14",
+            "extr": "Federal money, foundations, local governments invested in low income areas."
+          },
+          {
+            "id": "A15",
+            "extr": "Low income residents benefited from better jobs and saving on electrical bill."
+          },
+          {
+            "id": "A16",
+            "extr": "Bernie Sanders, chairman of the Green incentivized solar panel factories."
+          },
+          {
+            "id": "A17",
+            "extr": "Sanders targeted having 10 million rooftops in 10 years."
+          },
+          {
+            "id": "A18",
+            "extr": "Democrats asked to manufacture solar panels under the 30% investment tax credit."
+          },
+          {
+            "id": "A19",
+            "extr": "A federal loan guarantee put 160,000 solar installations on military housing."
+          },
+          {
+            "id": "A20",
+            "extr": "The plan calls for SolarCity to receive a $344 million DOE-backed loan."
+          },
+          {
+            "id": "A21",
+            "extr": "The loan originated from U.S. Renewables Group and Bank of America."
+          },
+          {
+            "id": "A22",
+            "extr": "DOE plans to spend $159 million on solar research and development."
+          },
+          {
+            "id": "A23",
+            "extr": "Solar panels and a solar hot water heater will be installed at the White House."
+          },
+          {
+            "id": "A24",
+            "extr": "The Obama White house will lead, renewable energy in the United States."
+          },
+          {
+            "id": "A25",
+            "extr": "Under President Obama, the US spearheaded a commitment to R&D of clean energy."
+          },
+          {
+            "id": "A26",
+            "extr": "Donald J. Trump administration has backtracked on that pledge of the R&D. The Obama administration doubled its financial support for solar power projects."
+          },
+          {
+            "id": "A27",
+            "extr": "The Obama support was oriented in the US, and outside the US."
+          },
+          {
+            "id": "A28",
+            "extr": "Bank of America secured a federal loan guarantee for a large solar project."
+          },
+          {
+            "id": "A29",
+            "extr": "The loan guarantee was given by the DOE."
+          },
+          {
+            "id": "A30",
+            "extr": "The size of this project is 733 MW enough to power 100,000 homes."
+          }
+        ]
+      },
+      {
+        "req-num": "DR-T7-r3",
+        "req-text": "What companies are performing research in non-silicon-based solar energy technology?",
+        "req-docs": [
+          "300901b2-e7a7-4e91-9715-8f219e14fc54",
+          "29098d3c-00f9-4860-97e2-f04e9471efcf"
+        ],
+        "req-extr": [
+          {
+            "id": 1,
+            "extr": "\"There\u2019s really this renaissance of solar thermal technology, and people are working very hard on how to reduce costs,\" said Martin Heming, the executive in charge of solar technology at Schott, the German company that made the collector pipe for Nevada Solar One."
+          },
+          {
+            "id": 2,
+            "extr": "the Solar Turbine Group, founded by engineers at the Massachusetts Institute of Technology, received  $130,000 from the World Bank and is testing two prototypes"
+          },
+          {
+            "id": 3,
+            "extr": "venture-capital money poured into start-ups working on breakthrough new materials that addressed the silicon problem. Nanosolar, Miasole, HelioVolt, and, yes, Solyndra,"
+          },
+          {
+            "id": "A1",
+            "extr": "Martin Heming, of Schott Technology. claims renaissance of solar technology."
+          },
+          {
+            "id": "A2",
+            "extr": "Schott is developing a system of molten salt, to fill the pipes."
+          },
+          {
+            "id": "A3",
+            "extr": "Solyndra attempted to develop a non-silicon photovoltaic (PV) technology."
+          },
+          {
+            "id": "A4",
+            "extr": "CUNY university along DOE aircraft laser beam, mapped 15 billion homes in NYC."
+          },
+          {
+            "id": "A5",
+            "extr": "Carter administration pumped millions into solar research and marketing."
+          },
+          {
+            "id": "A6",
+            "extr": "Federal funding for Advanced Research Projects Agency-Energy Good for Solar."
+          },
+          {
+            "id": "A7",
+            "extr": "Dan Zaslavsky, Technion Haifa, Israel; patented Water Spray Down Draft Tower."
+          },
+          {
+            "id": "A8",
+            "extr": "Australian scientists say solar energy will drive future power production."
+          },
+          {
+            "id": "A9",
+            "extr": "Martin Green, of the U. of New S. Wales improved efficiency of local company."
+          },
+          {
+            "id": "A10",
+            "extr": "Martin system uses mirrors to concentrate sunlight onto a central solar panel."
+          },
+          {
+            "id": "A11",
+            "extr": "First Solar, Inc. develops, constructs, and operates largest solar plants."
+          },
+          {
+            "id": "A12",
+            "extr": "SunEdison Inc. develops and operates hundreds of solar plants, in CA."
+          },
+          {
+            "id": "A13",
+            "extr": "Two German scientists, Dr. Knies, Dr. Trieb, predict solar efficiency & need"
+          },
+          {
+            "id": "A14",
+            "extr": "SolFocus of CA, and Concentrix Solar of Germany research bootstrapping energy"
+          },
+          {
+            "id": "A15",
+            "extr": "One start-up is entering the field by Prof. Angel of astronomy at U. AZ."
+          },
+          {
+            "id": "A16",
+            "extr": "Prof. Angel is an expert in mirrors for use in advanced telescopes."
+          },
+          {
+            "id": "A17",
+            "extr": "Scientists at the MIT coated paper with a solar cell, for solar energy."
+          },
+          {
+            "id": "A18",
+            "extr": "MIT & Italian oil company Eni dedicated the Eni-MIT Solar Research Center."
+          }
+        ]
+      }
+    ]
+  }
+]
